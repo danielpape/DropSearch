@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "b6c29d9a565a7afaac0513bdecdfd9b4"
+build_time: [555973343, 878099000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/selectsearch/ViewController.swift": [9223372036854775807, 0]
+  "/Users/dan/Developer/iOS/selectsearch/selectsearch/AppDelegate.swift": [9223372036854775807, 0]
