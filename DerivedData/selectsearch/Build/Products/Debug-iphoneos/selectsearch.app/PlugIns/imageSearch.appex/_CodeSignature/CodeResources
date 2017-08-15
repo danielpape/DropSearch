@@ -18,15 +18,23 @@
 		</data>
 		<key>ImageSearchExtension60x60@2x.png</key>
 		<data>
-		Px+mTGwaD+x1WwYwKTlYuDGYJRc=
+		NA2PHXlEHZ2CQIlz6ZWI18SmufA=
 		</data>
 		<key>ImageSearchExtension60x60@3x.png</key>
 		<data>
-		tyB/+11YoUy374tmeBWS1VdMeOI=
+		jAgXjKc/NWsfgvCTcoCKVesFGo0=
+		</data>
+		<key>ImageSearchExtension76x76@2x~ipad.png</key>
+		<data>
+		lFWm8JbMq2lcszvl33UmzBWj7sY=
+		</data>
+		<key>ImageSearchExtension76x76~ipad.png</key>
+		<data>
+		de9/rY5RW81GyMhJGH6ryhhmvF8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sQzLOJvp1QgQBAUhK1vZ7jL4KNE=
+		hirRL24SlK0Sj0yM6T61CwHE5c4=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -72,22 +80,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Px+mTGwaD+x1WwYwKTlYuDGYJRc=
+			NA2PHXlEHZ2CQIlz6ZWI18SmufA=
 			</data>
 			<key>hash2</key>
 			<data>
-			DPkxAvjANBeNKPTRhHD9PtcxLZDTuj96ur1BEbBH9mU=
+			jAonAWZo53JogAwdzuSFk/RePv0ey+i1iyG3PMLjKq0=
 			</data>
 		</dict>
 		<key>ImageSearchExtension60x60@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tyB/+11YoUy374tmeBWS1VdMeOI=
+			jAgXjKc/NWsfgvCTcoCKVesFGo0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iC9ykNAkQj+w09rcubytHEyjjXXetqUoFqx1N6RSh6c=
+			zRuOhXOdM6ago+Pf/mlgz5561JaY6T12OiYtm5ejwzc=
+			</data>
+		</dict>
+		<key>ImageSearchExtension76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lFWm8JbMq2lcszvl33UmzBWj7sY=
+			</data>
+			<key>hash2</key>
+			<data>
+			qpoFMrJZJGbe94qHQ8wUOfsAcBH9TKtEYOWuOuFCrwM=
+			</data>
+		</dict>
+		<key>ImageSearchExtension76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			de9/rY5RW81GyMhJGH6ryhhmvF8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZrB5MU5eFROGOnW5zfMyqE81RVnuPHlaKdmtgpd2nr8=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>

@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BBCSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>IMDBSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
+		</dict>
+		<key>redditSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
 		</dict>
 		<key>selectsearch.xcscheme</key>
 		<dict>
@@ -48,6 +58,26 @@
 			<true/>
 		</dict>
 		<key>37293A661F42D6D4006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293A791F4360FA006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293A8D1F438482006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293AA11F438645006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293AB51F4387E8006026F8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

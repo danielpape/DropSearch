@@ -36,7 +36,7 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                             self.convertedString = self.convertedString!.addingPercentEncoding( withAllowedCharacters: .urlQueryAllowed)
                                             
                                             DispatchQueue.main.async {
-                                                let svc = SFSafariViewController(url: URL(string:"https://www.imdb.com/find?q="+self.convertedString!+"&tbm=isch")!)
+                                                let svc = SFSafariViewController(url: URL(string:"http://m.imdb.com/find?q="+self.convertedString!+"&tbm=isch")!)
                                                 svc.delegate = self
                                                 svc.modalPresentationCapturesStatusBarAppearance = true
                                                 self.present(svc, animated: true, completion: nil)

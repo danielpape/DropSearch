@@ -11,15 +11,22 @@
 		3717CEA61F40F10E00082E0C /* dropSearchIcon_200.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA31F40F10E00082E0C /* dropSearchIcon_200.png */; };
 		3717CEA71F40F10E00082E0C /* dropSearchIcon_200@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA41F40F10E00082E0C /* dropSearchIcon_200@3x.png */; };
 		3717CEA81F40F10E00082E0C /* dropSearchIcon_200@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA51F40F10E00082E0C /* dropSearchIcon_200@2x.png */; };
-		37293A461F42D590006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A451F42D590006026F8 /* ActionViewController.swift */; };
-		37293A491F42D590006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A471F42D590006026F8 /* MainInterface.storyboard */; };
-		37293A4D1F42D590006026F8 /* IMDBSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A431F42D590006026F8 /* IMDBSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		37293A581F42D65D006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A571F42D65D006026F8 /* ActionViewController.swift */; };
-		37293A5B1F42D65D006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A591F42D65D006026F8 /* MainInterface.storyboard */; };
-		37293A5F1F42D65D006026F8 /* flickrSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A551F42D65D006026F8 /* flickrSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		37293A6A1F42D6D5006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A691F42D6D5006026F8 /* ActionViewController.swift */; };
-		37293A6D1F42D6D5006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */; };
-		37293A711F42D6D5006026F8 /* twitterSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A671F42D6D4006026F8 /* twitterSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293A7D1F4360FA006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A7C1F4360FA006026F8 /* ActionViewController.swift */; };
+		37293A801F4360FA006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A7E1F4360FA006026F8 /* MainInterface.storyboard */; };
+		37293A841F4360FA006026F8 /* twitterSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A7A1F4360FA006026F8 /* twitterSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293A891F43625E006026F8 /* twitterIcon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37293A881F43625E006026F8 /* twitterIcon.xcassets */; };
+		37293A911F438482006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A901F438482006026F8 /* ActionViewController.swift */; };
+		37293A941F438482006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A921F438482006026F8 /* MainInterface.storyboard */; };
+		37293A981F438482006026F8 /* IMDBSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A8E1F438482006026F8 /* IMDBSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293A9D1F4384C1006026F8 /* IMDBSearch.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37293A9C1F4384C1006026F8 /* IMDBSearch.xcassets */; };
+		37293AA51F438645006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293AA41F438645006026F8 /* ActionViewController.swift */; };
+		37293AA81F438645006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293AA61F438645006026F8 /* MainInterface.storyboard */; };
+		37293AAC1F438645006026F8 /* redditSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293AA21F438645006026F8 /* redditSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293AB11F43868C006026F8 /* redditIcon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37293AB01F43868C006026F8 /* redditIcon.xcassets */; };
+		37293AB91F4387E8006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293AB81F4387E8006026F8 /* ActionViewController.swift */; };
+		37293ABC1F4387E8006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293ABA1F4387E8006026F8 /* MainInterface.storyboard */; };
+		37293AC01F4387E8006026F8 /* BBCSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293AB61F4387E8006026F8 /* BBCSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293AC51F43880B006026F8 /* BBCICON.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37293AC41F43880B006026F8 /* BBCICON.xcassets */; };
 		3743D1E51F1EA94500CB492E /* ExtensionIcon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3743D1E41F1EA94500CB492E /* ExtensionIcon.xcassets */; };
 		3747A5FC1F1A4F2B00F42287 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */; };
 		3747A5FE1F1A4F2B00F42287 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3747A5FD1F1A4F2B00F42287 /* ViewController.swift */; };
@@ -37,26 +44,33 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		37293A4B1F42D590006026F8 /* PBXContainerItemProxy */ = {
+		37293A821F4360FA006026F8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 37293A421F42D590006026F8;
+			remoteGlobalIDString = 37293A791F4360FA006026F8;
+			remoteInfo = twitterSearch;
+		};
+		37293A961F438482006026F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 37293A8D1F438482006026F8;
 			remoteInfo = IMDBSearch;
 		};
-		37293A5D1F42D65D006026F8 /* PBXContainerItemProxy */ = {
+		37293AAA1F438645006026F8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 37293A541F42D65D006026F8;
-			remoteInfo = flickrSearch;
+			remoteGlobalIDString = 37293AA11F438645006026F8;
+			remoteInfo = redditSearch;
 		};
-		37293A6F1F42D6D5006026F8 /* PBXContainerItemProxy */ = {
+		37293ABE1F4387E8006026F8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 37293A661F42D6D4006026F8;
-			remoteInfo = twitterSearch;
+			remoteGlobalIDString = 37293AB51F4387E8006026F8;
+			remoteInfo = BBCSearch;
 		};
 		3747A60D1F1A4F2B00F42287 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -95,11 +109,12 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
+				37293AAC1F438645006026F8 /* redditSearch.appex in Embed App Extensions */,
 				37B4C6731F2511EA00CDC601 /* imageSearch.appex in Embed App Extensions */,
+				37293AC01F4387E8006026F8 /* BBCSearch.appex in Embed App Extensions */,
+				37293A841F4360FA006026F8 /* twitterSearch.appex in Embed App Extensions */,
+				37293A981F438482006026F8 /* IMDBSearch.appex in Embed App Extensions */,
 				3747A6371F1A4F6C00F42287 /* selectsearchextension.appex in Embed App Extensions */,
-				37293A4D1F42D590006026F8 /* IMDBSearch.appex in Embed App Extensions */,
-				37293A711F42D6D5006026F8 /* twitterSearch.appex in Embed App Extensions */,
-				37293A5F1F42D65D006026F8 /* flickrSearch.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -111,18 +126,26 @@
 		3717CEA31F40F10E00082E0C /* dropSearchIcon_200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dropSearchIcon_200.png; sourceTree = "<group>"; };
 		3717CEA41F40F10E00082E0C /* dropSearchIcon_200@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dropSearchIcon_200@3x.png"; sourceTree = "<group>"; };
 		3717CEA51F40F10E00082E0C /* dropSearchIcon_200@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dropSearchIcon_200@2x.png"; sourceTree = "<group>"; };
-		37293A431F42D590006026F8 /* IMDBSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = IMDBSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		37293A451F42D590006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
-		37293A481F42D590006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
-		37293A4A1F42D590006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		37293A551F42D65D006026F8 /* flickrSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = flickrSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		37293A571F42D65D006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
-		37293A5A1F42D65D006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
-		37293A5C1F42D65D006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		37293A671F42D6D4006026F8 /* twitterSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = twitterSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		37293A691F42D6D5006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
-		37293A6C1F42D6D5006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
-		37293A6E1F42D6D5006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293A7A1F4360FA006026F8 /* twitterSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = twitterSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293A7C1F4360FA006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293A7F1F4360FA006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293A811F4360FA006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293A881F43625E006026F8 /* twitterIcon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = twitterIcon.xcassets; sourceTree = "<group>"; };
+		37293A8E1F438482006026F8 /* IMDBSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = IMDBSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293A901F438482006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293A931F438482006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293A951F438482006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293A9C1F4384C1006026F8 /* IMDBSearch.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = IMDBSearch.xcassets; sourceTree = "<group>"; };
+		37293AA21F438645006026F8 /* redditSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = redditSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293AA41F438645006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293AA71F438645006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293AA91F438645006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293AB01F43868C006026F8 /* redditIcon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = redditIcon.xcassets; sourceTree = "<group>"; };
+		37293AB61F4387E8006026F8 /* BBCSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = BBCSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293AB81F4387E8006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293ABB1F4387E8006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293ABD1F4387E8006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293AC41F43880B006026F8 /* BBCICON.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = BBCICON.xcassets; sourceTree = "<group>"; };
 		3743D1E41F1EA94500CB492E /* ExtensionIcon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ExtensionIcon.xcassets; sourceTree = "<group>"; };
 		3747A5F81F1A4F2B00F42287 /* selectsearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = selectsearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -148,21 +171,28 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		37293A401F42D590006026F8 /* Frameworks */ = {
+		37293A771F4360FA006026F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A521F42D65D006026F8 /* Frameworks */ = {
+		37293A8B1F438482006026F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A641F42D6D4006026F8 /* Frameworks */ = {
+		37293A9F1F438645006026F8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293AB31F4387E8006026F8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -217,34 +247,48 @@
 			name = Images;
 			sourceTree = "<group>";
 		};
-		37293A441F42D590006026F8 /* IMDBSearch */ = {
+		37293A7B1F4360FA006026F8 /* twitterSearch */ = {
 			isa = PBXGroup;
 			children = (
-				37293A451F42D590006026F8 /* ActionViewController.swift */,
-				37293A471F42D590006026F8 /* MainInterface.storyboard */,
-				37293A4A1F42D590006026F8 /* Info.plist */,
+				37293A7C1F4360FA006026F8 /* ActionViewController.swift */,
+				37293A7E1F4360FA006026F8 /* MainInterface.storyboard */,
+				37293A811F4360FA006026F8 /* Info.plist */,
+				37293A881F43625E006026F8 /* twitterIcon.xcassets */,
+			);
+			path = twitterSearch;
+			sourceTree = "<group>";
+		};
+		37293A8F1F438482006026F8 /* IMDBSearch */ = {
+			isa = PBXGroup;
+			children = (
+				37293A901F438482006026F8 /* ActionViewController.swift */,
+				37293A921F438482006026F8 /* MainInterface.storyboard */,
+				37293A951F438482006026F8 /* Info.plist */,
+				37293A9C1F4384C1006026F8 /* IMDBSearch.xcassets */,
 			);
 			path = IMDBSearch;
 			sourceTree = "<group>";
 		};
-		37293A561F42D65D006026F8 /* flickrSearch */ = {
+		37293AA31F438645006026F8 /* redditSearch */ = {
 			isa = PBXGroup;
 			children = (
-				37293A571F42D65D006026F8 /* ActionViewController.swift */,
-				37293A591F42D65D006026F8 /* MainInterface.storyboard */,
-				37293A5C1F42D65D006026F8 /* Info.plist */,
+				37293AA41F438645006026F8 /* ActionViewController.swift */,
+				37293AA61F438645006026F8 /* MainInterface.storyboard */,
+				37293AA91F438645006026F8 /* Info.plist */,
+				37293AB01F43868C006026F8 /* redditIcon.xcassets */,
 			);
-			path = flickrSearch;
+			path = redditSearch;
 			sourceTree = "<group>";
 		};
-		37293A681F42D6D5006026F8 /* twitterSearch */ = {
+		37293AB71F4387E8006026F8 /* BBCSearch */ = {
 			isa = PBXGroup;
 			children = (
-				37293A691F42D6D5006026F8 /* ActionViewController.swift */,
-				37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */,
-				37293A6E1F42D6D5006026F8 /* Info.plist */,
+				37293AB81F4387E8006026F8 /* ActionViewController.swift */,
+				37293ABA1F4387E8006026F8 /* MainInterface.storyboard */,
+				37293ABD1F4387E8006026F8 /* Info.plist */,
+				37293AC41F43880B006026F8 /* BBCICON.xcassets */,
 			);
-			path = twitterSearch;
+			path = BBCSearch;
 			sourceTree = "<group>";
 		};
 		3747A5EF1F1A4F2B00F42287 = {
@@ -255,9 +299,10 @@
 				3747A61A1F1A4F2B00F42287 /* selectsearchUITests */,
 				3747A62E1F1A4F6C00F42287 /* textSearch */,
 				37B4C66A1F2511EA00CDC601 /* imageSearch */,
-				37293A441F42D590006026F8 /* IMDBSearch */,
-				37293A561F42D65D006026F8 /* flickrSearch */,
-				37293A681F42D6D5006026F8 /* twitterSearch */,
+				37293A7B1F4360FA006026F8 /* twitterSearch */,
+				37293A8F1F438482006026F8 /* IMDBSearch */,
+				37293AA31F438645006026F8 /* redditSearch */,
+				37293AB71F4387E8006026F8 /* BBCSearch */,
 				3747A5F91F1A4F2B00F42287 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -270,9 +315,10 @@
 				3747A6171F1A4F2B00F42287 /* selectsearchUITests.xctest */,
 				3747A62D1F1A4F6C00F42287 /* selectsearchextension.appex */,
 				37B4C6691F2511EA00CDC601 /* imageSearch.appex */,
-				37293A431F42D590006026F8 /* IMDBSearch.appex */,
-				37293A551F42D65D006026F8 /* flickrSearch.appex */,
-				37293A671F42D6D4006026F8 /* twitterSearch.appex */,
+				37293A7A1F4360FA006026F8 /* twitterSearch.appex */,
+				37293A8E1F438482006026F8 /* IMDBSearch.appex */,
+				37293AA21F438645006026F8 /* redditSearch.appex */,
+				37293AB61F4387E8006026F8 /* BBCSearch.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -335,47 +381,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		37293A421F42D590006026F8 /* IMDBSearch */ = {
+		37293A791F4360FA006026F8 /* twitterSearch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 37293A4E1F42D590006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */;
+			buildConfigurationList = 37293A851F4360FA006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */;
 			buildPhases = (
-				37293A3F1F42D590006026F8 /* Sources */,
-				37293A401F42D590006026F8 /* Frameworks */,
-				37293A411F42D590006026F8 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = IMDBSearch;
-			productName = IMDBSearch;
-			productReference = 37293A431F42D590006026F8 /* IMDBSearch.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
-		37293A541F42D65D006026F8 /* flickrSearch */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 37293A601F42D65D006026F8 /* Build configuration list for PBXNativeTarget "flickrSearch" */;
-			buildPhases = (
-				37293A511F42D65D006026F8 /* Sources */,
-				37293A521F42D65D006026F8 /* Frameworks */,
-				37293A531F42D65D006026F8 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = flickrSearch;
-			productName = flickrSearch;
-			productReference = 37293A551F42D65D006026F8 /* flickrSearch.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
-		37293A661F42D6D4006026F8 /* twitterSearch */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 37293A721F42D6D5006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */;
-			buildPhases = (
-				37293A631F42D6D4006026F8 /* Sources */,
-				37293A641F42D6D4006026F8 /* Frameworks */,
-				37293A651F42D6D4006026F8 /* Resources */,
+				37293A761F4360FA006026F8 /* Sources */,
+				37293A771F4360FA006026F8 /* Frameworks */,
+				37293A781F4360FA006026F8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -383,7 +395,58 @@
 			);
 			name = twitterSearch;
 			productName = twitterSearch;
-			productReference = 37293A671F42D6D4006026F8 /* twitterSearch.appex */;
+			productReference = 37293A7A1F4360FA006026F8 /* twitterSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		37293A8D1F438482006026F8 /* IMDBSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293A991F438482006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */;
+			buildPhases = (
+				37293A8A1F438482006026F8 /* Sources */,
+				37293A8B1F438482006026F8 /* Frameworks */,
+				37293A8C1F438482006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IMDBSearch;
+			productName = IMDBSearch;
+			productReference = 37293A8E1F438482006026F8 /* IMDBSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		37293AA11F438645006026F8 /* redditSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293AAD1F438645006026F8 /* Build configuration list for PBXNativeTarget "redditSearch" */;
+			buildPhases = (
+				37293A9E1F438645006026F8 /* Sources */,
+				37293A9F1F438645006026F8 /* Frameworks */,
+				37293AA01F438645006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = redditSearch;
+			productName = redditSearch;
+			productReference = 37293AA21F438645006026F8 /* redditSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		37293AB51F4387E8006026F8 /* BBCSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293AC11F4387E8006026F8 /* Build configuration list for PBXNativeTarget "BBCSearch" */;
+			buildPhases = (
+				37293AB21F4387E8006026F8 /* Sources */,
+				37293AB31F4387E8006026F8 /* Frameworks */,
+				37293AB41F4387E8006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BBCSearch;
+			productName = BBCSearch;
+			productReference = 37293AB61F4387E8006026F8 /* BBCSearch.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 		3747A5F71F1A4F2B00F42287 /* selectsearch */ = {
@@ -400,9 +463,10 @@
 			dependencies = (
 				3747A6361F1A4F6C00F42287 /* PBXTargetDependency */,
 				37B4C6721F2511EA00CDC601 /* PBXTargetDependency */,
-				37293A4C1F42D590006026F8 /* PBXTargetDependency */,
-				37293A5E1F42D65D006026F8 /* PBXTargetDependency */,
-				37293A701F42D6D5006026F8 /* PBXTargetDependency */,
+				37293A831F4360FA006026F8 /* PBXTargetDependency */,
+				37293A971F438482006026F8 /* PBXTargetDependency */,
+				37293AAB1F438645006026F8 /* PBXTargetDependency */,
+				37293ABF1F4387E8006026F8 /* PBXTargetDependency */,
 			);
 			name = selectsearch;
 			productName = selectsearch;
@@ -489,17 +553,22 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Daniel Pape";
 				TargetAttributes = {
-					37293A421F42D590006026F8 = {
+					37293A791F4360FA006026F8 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
 					};
-					37293A541F42D65D006026F8 = {
+					37293A8D1F438482006026F8 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
 					};
-					37293A661F42D6D4006026F8 = {
+					37293AA11F438645006026F8 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6XK8CTGKE3;
+						ProvisioningStyle = Automatic;
+					};
+					37293AB51F4387E8006026F8 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
@@ -551,35 +620,48 @@
 				3747A6161F1A4F2B00F42287 /* selectsearchUITests */,
 				3747A62C1F1A4F6C00F42287 /* selectsearchextension */,
 				37B4C6681F2511EA00CDC601 /* imageSearch */,
-				37293A421F42D590006026F8 /* IMDBSearch */,
-				37293A541F42D65D006026F8 /* flickrSearch */,
-				37293A661F42D6D4006026F8 /* twitterSearch */,
+				37293A791F4360FA006026F8 /* twitterSearch */,
+				37293A8D1F438482006026F8 /* IMDBSearch */,
+				37293AA11F438645006026F8 /* redditSearch */,
+				37293AB51F4387E8006026F8 /* BBCSearch */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		37293A411F42D590006026F8 /* Resources */ = {
+		37293A781F4360FA006026F8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A491F42D590006026F8 /* MainInterface.storyboard in Resources */,
+				37293A891F43625E006026F8 /* twitterIcon.xcassets in Resources */,
+				37293A801F4360FA006026F8 /* MainInterface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A531F42D65D006026F8 /* Resources */ = {
+		37293A8C1F438482006026F8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A5B1F42D65D006026F8 /* MainInterface.storyboard in Resources */,
+				37293A941F438482006026F8 /* MainInterface.storyboard in Resources */,
+				37293A9D1F4384C1006026F8 /* IMDBSearch.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A651F42D6D4006026F8 /* Resources */ = {
+		37293AA01F438645006026F8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A6D1F42D6D5006026F8 /* MainInterface.storyboard in Resources */,
+				37293AB11F43868C006026F8 /* redditIcon.xcassets in Resources */,
+				37293AA81F438645006026F8 /* MainInterface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293AB41F4387E8006026F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293AC51F43880B006026F8 /* BBCICON.xcassets in Resources */,
+				37293ABC1F4387E8006026F8 /* MainInterface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -631,27 +713,35 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		37293A3F1F42D590006026F8 /* Sources */ = {
+		37293A761F4360FA006026F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A461F42D590006026F8 /* ActionViewController.swift in Sources */,
+				37293A7D1F4360FA006026F8 /* ActionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A511F42D65D006026F8 /* Sources */ = {
+		37293A8A1F438482006026F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A581F42D65D006026F8 /* ActionViewController.swift in Sources */,
+				37293A911F438482006026F8 /* ActionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		37293A631F42D6D4006026F8 /* Sources */ = {
+		37293A9E1F438645006026F8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37293A6A1F42D6D5006026F8 /* ActionViewController.swift in Sources */,
+				37293AA51F438645006026F8 /* ActionViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293AB21F4387E8006026F8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293AB91F4387E8006026F8 /* ActionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -699,20 +789,25 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		37293A4C1F42D590006026F8 /* PBXTargetDependency */ = {
+		37293A831F4360FA006026F8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 37293A421F42D590006026F8 /* IMDBSearch */;
-			targetProxy = 37293A4B1F42D590006026F8 /* PBXContainerItemProxy */;
+			target = 37293A791F4360FA006026F8 /* twitterSearch */;
+			targetProxy = 37293A821F4360FA006026F8 /* PBXContainerItemProxy */;
 		};
-		37293A5E1F42D65D006026F8 /* PBXTargetDependency */ = {
+		37293A971F438482006026F8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 37293A541F42D65D006026F8 /* flickrSearch */;
-			targetProxy = 37293A5D1F42D65D006026F8 /* PBXContainerItemProxy */;
+			target = 37293A8D1F438482006026F8 /* IMDBSearch */;
+			targetProxy = 37293A961F438482006026F8 /* PBXContainerItemProxy */;
 		};
-		37293A701F42D6D5006026F8 /* PBXTargetDependency */ = {
+		37293AAB1F438645006026F8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 37293A661F42D6D4006026F8 /* twitterSearch */;
-			targetProxy = 37293A6F1F42D6D5006026F8 /* PBXContainerItemProxy */;
+			target = 37293AA11F438645006026F8 /* redditSearch */;
+			targetProxy = 37293AAA1F438645006026F8 /* PBXContainerItemProxy */;
+		};
+		37293ABF1F4387E8006026F8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 37293AB51F4387E8006026F8 /* BBCSearch */;
+			targetProxy = 37293ABE1F4387E8006026F8 /* PBXContainerItemProxy */;
 		};
 		3747A60E1F1A4F2B00F42287 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -737,26 +832,34 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		37293A471F42D590006026F8 /* MainInterface.storyboard */ = {
+		37293A7E1F4360FA006026F8 /* MainInterface.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				37293A481F42D590006026F8 /* Base */,
+				37293A7F1F4360FA006026F8 /* Base */,
 			);
 			name = MainInterface.storyboard;
 			sourceTree = "<group>";
 		};
-		37293A591F42D65D006026F8 /* MainInterface.storyboard */ = {
+		37293A921F438482006026F8 /* MainInterface.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				37293A5A1F42D65D006026F8 /* Base */,
+				37293A931F438482006026F8 /* Base */,
 			);
 			name = MainInterface.storyboard;
 			sourceTree = "<group>";
 		};
-		37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */ = {
+		37293AA61F438645006026F8 /* MainInterface.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				37293A6C1F42D6D5006026F8 /* Base */,
+				37293AA71F438645006026F8 /* Base */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
+		37293ABA1F4387E8006026F8 /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				37293ABB1F4387E8006026F8 /* Base */,
 			);
 			name = MainInterface.storyboard;
 			sourceTree = "<group>";
@@ -796,61 +899,10 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		37293A4F1F42D590006026F8 /* Debug */ = {
+		37293A861F4360FA006026F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 6XK8CTGKE3;
-				INFOPLIST_FILE = IMDBSearch/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-			};
-			name = Debug;
-		};
-		37293A501F42D590006026F8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DEVELOPMENT_TEAM = 6XK8CTGKE3;
-				INFOPLIST_FILE = IMDBSearch/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		37293A611F42D65D006026F8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DEVELOPMENT_TEAM = 6XK8CTGKE3;
-				INFOPLIST_FILE = flickrSearch/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.flickrSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-			};
-			name = Debug;
-		};
-		37293A621F42D65D006026F8 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DEVELOPMENT_TEAM = 6XK8CTGKE3;
-				INFOPLIST_FILE = flickrSearch/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.flickrSearch;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
-			};
-			name = Release;
-		};
-		37293A731F42D6D5006026F8 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = twitterIcon;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = twitterSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -861,13 +913,98 @@
 			};
 			name = Debug;
 		};
-		37293A741F42D6D5006026F8 /* Release */ = {
+		37293A871F4360FA006026F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = twitterIcon;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = twitterSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.twitterSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		37293A9A1F438482006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = IMDBIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = IMDBSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293A9B1F438482006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = IMDBIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = IMDBSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		37293AAE1F438645006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = redditIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = redditSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.redditSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293AAF1F438645006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = redditIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = redditSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.redditSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		37293AC21F4387E8006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = BBCIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = BBCSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.BBCSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293AC31F4387E8006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = BBCIcon;
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = BBCSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.BBCSearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -981,7 +1118,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -997,7 +1134,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -1118,27 +1255,35 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		37293A4E1F42D590006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */ = {
+		37293A851F4360FA006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				37293A4F1F42D590006026F8 /* Debug */,
-				37293A501F42D590006026F8 /* Release */,
+				37293A861F4360FA006026F8 /* Debug */,
+				37293A871F4360FA006026F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		37293A601F42D65D006026F8 /* Build configuration list for PBXNativeTarget "flickrSearch" */ = {
+		37293A991F438482006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				37293A611F42D65D006026F8 /* Debug */,
-				37293A621F42D65D006026F8 /* Release */,
+				37293A9A1F438482006026F8 /* Debug */,
+				37293A9B1F438482006026F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		37293A721F42D6D5006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */ = {
+		37293AAD1F438645006026F8 /* Build configuration list for PBXNativeTarget "redditSearch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				37293A731F42D6D5006026F8 /* Debug */,
-				37293A741F42D6D5006026F8 /* Release */,
+				37293AAE1F438645006026F8 /* Debug */,
+				37293AAF1F438645006026F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		37293AC11F4387E8006026F8 /* Build configuration list for PBXNativeTarget "BBCSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37293AC21F4387E8006026F8 /* Debug */,
+				37293AC31F4387E8006026F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
