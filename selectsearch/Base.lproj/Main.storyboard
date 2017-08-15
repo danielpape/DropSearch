@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -26,6 +26,7 @@
                                 <rect key="frame" x="16" y="402" width="343" height="74"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="74" id="DJv-vV-rNu"/>
+                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="343" id="Xr4-4A-nm2"/>
                                 </constraints>
                                 <string key="text">To enable DropSearch first select a piece of text, then tap on Share, then tap on More and flick the switch next to DropSearch Text so that it's green.</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -34,6 +35,9 @@
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="To use DropSearch make sure it's enabled and then select any text, then tap share, then tap DropSearch." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JRr-CE-s9m">
                                 <rect key="frame" x="16" y="513" width="343" height="74"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="343" id="qhX-uq-kIk"/>
+                                </constraints>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -42,6 +46,7 @@
                                 <rect key="frame" x="16" y="373" width="343" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="3Y5-Gf-OpO"/>
+                                    <constraint firstAttribute="width" constant="343" id="A6B-1V-oUy"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -49,6 +54,9 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to search" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dOq-NX-BsT">
                                 <rect key="frame" x="16" y="484" width="343" height="24"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="343" id="5kH-Hn-GhL"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -68,26 +76,25 @@
                         </subviews>
                         <color key="backgroundColor" red="0.10196078431372549" green="0.13725490196078433" blue="0.49411764705882355" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="GaD-ra-lHj" firstAttribute="trailing" secondItem="YjI-hw-EOz" secondAttribute="trailing" id="1xN-dw-flW"/>
+                            <constraint firstAttribute="leadingMargin" secondItem="z20-cp-7R5" secondAttribute="leading" priority="999" id="12B-pT-txM"/>
                             <constraint firstItem="YjI-hw-EOz" firstAttribute="top" secondItem="GaD-ra-lHj" secondAttribute="bottom" constant="54" id="2FG-9Z-HMJ"/>
-                            <constraint firstItem="dOq-NX-BsT" firstAttribute="trailing" secondItem="JRr-CE-s9m" secondAttribute="trailing" id="34K-3E-Tts"/>
-                            <constraint firstItem="YjI-hw-EOz" firstAttribute="leading" secondItem="z20-cp-7R5" secondAttribute="leading" id="5C4-aI-Xbi"/>
-                            <constraint firstItem="z20-cp-7R5" firstAttribute="leading" secondItem="dOq-NX-BsT" secondAttribute="leading" id="6bV-jc-d2B"/>
-                            <constraint firstItem="z20-cp-7R5" firstAttribute="trailing" secondItem="dOq-NX-BsT" secondAttribute="trailing" id="AHR-ui-j78"/>
+                            <constraint firstItem="dOq-NX-BsT" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6OY-Kr-2wQ"/>
                             <constraint firstItem="JRr-CE-s9m" firstAttribute="top" secondItem="dOq-NX-BsT" secondAttribute="bottom" constant="5" id="Bmz-a1-Gwo"/>
                             <constraint firstItem="GaD-ra-lHj" firstAttribute="top" secondItem="X1o-gg-mqT" secondAttribute="bottom" constant="8" symbolic="YES" id="InU-j0-UA0"/>
                             <constraint firstItem="GaD-ra-lHj" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="JPc-wg-P2Q"/>
-                            <constraint firstItem="dOq-NX-BsT" firstAttribute="leading" secondItem="JRr-CE-s9m" secondAttribute="leading" id="K9T-a3-ocI"/>
                             <constraint firstItem="X1o-gg-mqT" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="45" id="M8l-74-EyO"/>
-                            <constraint firstItem="YjI-hw-EOz" firstAttribute="trailing" secondItem="z20-cp-7R5" secondAttribute="trailing" id="QNH-w3-NmG"/>
                             <constraint firstItem="X1o-gg-mqT" firstAttribute="centerX" secondItem="GaD-ra-lHj" secondAttribute="centerX" id="RQm-WN-ZMw"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="JRr-CE-s9m" secondAttribute="bottom" constant="80" id="XMD-Rx-eXf"/>
                             <constraint firstItem="z20-cp-7R5" firstAttribute="top" secondItem="YjI-hw-EOz" secondAttribute="bottom" constant="8" symbolic="YES" id="ZNI-tE-QM1"/>
+                            <constraint firstItem="JRr-CE-s9m" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Zdu-5j-jTk"/>
                             <constraint firstItem="dOq-NX-BsT" firstAttribute="top" secondItem="z20-cp-7R5" secondAttribute="bottom" constant="8" symbolic="YES" id="akZ-XY-e0X"/>
-                            <constraint firstItem="GaD-ra-lHj" firstAttribute="leading" secondItem="YjI-hw-EOz" secondAttribute="leading" id="nq4-8e-o8t"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="z20-cp-7R5" secondAttribute="trailing" priority="999" id="i3c-pP-8gy"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="opg-2S-ojK"/>
                             <constraint firstItem="GaD-ra-lHj" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="w9F-Na-2Ec"/>
+                            <constraint firstItem="z20-cp-7R5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yUM-rA-Fb4"/>
                         </constraints>
                     </view>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

@@ -12,5 +12,16 @@
 			</array>
 		</dict>
 	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>appExtension60x60</string>
+				<string>appExtension76x76</string>
+			</array>
+		</dict>
+	</dict>
 </dict>
 </plist>

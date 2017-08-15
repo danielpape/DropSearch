@@ -152,19 +152,13 @@ SWIFT_CLASS("_TtC12selectsearch11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIPickerView;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC12selectsearch14ViewController")
-@interface ViewController : UIViewController <UIPickerViewDelegate, UIPickerViewDataSource>
-@property (nonatomic, weak) IBOutlet UIPickerView * _Null_unspecified searchPicker;
-@property (nonatomic, copy) NSArray<NSString *> * _Nonnull pickerData;
+@interface ViewController : UIViewController
 - (void)viewDidLoad;
 - (void)didReceiveMemoryWarning;
-- (NSInteger)numberOfComponentsInPickerView:(UIPickerView * _Nonnull)pickerView SWIFT_WARN_UNUSED_RESULT;
-- (NSInteger)pickerView:(UIPickerView * _Nonnull)pickerView numberOfRowsInComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
-- (NSString * _Nullable)pickerView:(UIPickerView * _Nonnull)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

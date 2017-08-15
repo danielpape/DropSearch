@@ -10,15 +10,15 @@
 		</data>
 		<key>Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
 		<data>
-		JIbTfDzqRXl2f/K12bV1/J0OlK8=
+		ic1MJRSjieGUULgeSQrVqeHINog=
 		</data>
 		<key>Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
 		<data>
-		LDxLd6f+ovViwmIVASttWZgNSqA=
+		na+7Tg0uE78xlxa1lG6mwPVxHFk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mitkT+fQ3RWmQWdJAebZ9CodfzA=
+		Wfluqnb9LZCBpXI9tJ35mLh09Bg=
 		</data>
 		<key>appExtension60x60@2x.png</key>
 		<data>
@@ -27,6 +27,14 @@
 		<key>appExtension60x60@3x.png</key>
 		<data>
 		KAExXTwPEZQhoV2gLW4i8cP6S4E=
+		</data>
+		<key>appExtension76x76@2x~ipad.png</key>
+		<data>
+		JUN131C9gHti/yaSNHDXlfWxIOA=
+		</data>
+		<key>appExtension76x76~ipad.png</key>
+		<data>
+		7I3OvIxcK27tvFJRQRFw3pKBTro=
 		</data>
 		<key>archived-expanded-entitlements.xcent</key>
 		<data>
@@ -54,22 +62,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JIbTfDzqRXl2f/K12bV1/J0OlK8=
+			ic1MJRSjieGUULgeSQrVqeHINog=
 			</data>
 			<key>hash2</key>
 			<data>
-			qtIKzJVkft3kd1aEiPAaEMgdL5ygd6Ibj8j57UYgUtc=
+			Gnn6+9wHXk97bch8AxNCEdw+JQHNootyrc70mMnUCvY=
 			</data>
 		</dict>
 		<key>Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LDxLd6f+ovViwmIVASttWZgNSqA=
+			na+7Tg0uE78xlxa1lG6mwPVxHFk=
 			</data>
 			<key>hash2</key>
 			<data>
-			v++iklr9owFgLYdMxI8J/my+J/mZjaver740dICj2tU=
+			79qlwkcxuApeZ9PjW5huEaCP9BWICbYEaKM07t6+DnE=
 			</data>
 		</dict>
 		<key>appExtension60x60@2x.png</key>
@@ -92,6 +100,28 @@
 			<key>hash2</key>
 			<data>
 			0JXggLauCZ4q8z2eBWvmj0AgR+v9KTg59UibubMAzsg=
+			</data>
+		</dict>
+		<key>appExtension76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JUN131C9gHti/yaSNHDXlfWxIOA=
+			</data>
+			<key>hash2</key>
+			<data>
+			1wHs3d4j5DFcj9U/SmiXIWJhSPZFGbuZ9PmL+KiYcI4=
+			</data>
+		</dict>
+		<key>appExtension76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7I3OvIxcK27tvFJRQRFw3pKBTro=
+			</data>
+			<key>hash2</key>
+			<data>
+			UyMihHFKG1s6Rp6o7/r+1c7XC3+7IECseXzBSZQiXLg=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>

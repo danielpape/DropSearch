@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>6XK8CTGKE3.com.danielpape.selectsearch</string>
+	<string>6XK8CTGKE3.com.danielpape.dropSearch</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>6XK8CTGKE3.com.danielpape.selectsearch</string>
+		<string>6XK8CTGKE3.com.danielpape.dropSearch</string>
 	</array>
 </dict>
 </plist>
