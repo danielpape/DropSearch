@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "320a98a6d122d41c1f022042d6daa624"
+build_time: [556096386, 933085000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/flickrSearch/ActionViewController.swift": [556096386, 0]

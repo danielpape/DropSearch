@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>IMDBSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>flickrSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>imageSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -19,9 +29,29 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>twitterSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>37293A421F42D590006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293A541F42D65D006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37293A661F42D6D4006026F8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>3747A5F71F1A4F2B00F42287</key>
 		<dict>
 			<key>primary</key>

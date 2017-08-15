@@ -11,6 +11,15 @@
 		3717CEA61F40F10E00082E0C /* dropSearchIcon_200.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA31F40F10E00082E0C /* dropSearchIcon_200.png */; };
 		3717CEA71F40F10E00082E0C /* dropSearchIcon_200@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA41F40F10E00082E0C /* dropSearchIcon_200@3x.png */; };
 		3717CEA81F40F10E00082E0C /* dropSearchIcon_200@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3717CEA51F40F10E00082E0C /* dropSearchIcon_200@2x.png */; };
+		37293A461F42D590006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A451F42D590006026F8 /* ActionViewController.swift */; };
+		37293A491F42D590006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A471F42D590006026F8 /* MainInterface.storyboard */; };
+		37293A4D1F42D590006026F8 /* IMDBSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A431F42D590006026F8 /* IMDBSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293A581F42D65D006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A571F42D65D006026F8 /* ActionViewController.swift */; };
+		37293A5B1F42D65D006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A591F42D65D006026F8 /* MainInterface.storyboard */; };
+		37293A5F1F42D65D006026F8 /* flickrSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A551F42D65D006026F8 /* flickrSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37293A6A1F42D6D5006026F8 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37293A691F42D6D5006026F8 /* ActionViewController.swift */; };
+		37293A6D1F42D6D5006026F8 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */; };
+		37293A711F42D6D5006026F8 /* twitterSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37293A671F42D6D4006026F8 /* twitterSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		3743D1E51F1EA94500CB492E /* ExtensionIcon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3743D1E41F1EA94500CB492E /* ExtensionIcon.xcassets */; };
 		3747A5FC1F1A4F2B00F42287 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */; };
 		3747A5FE1F1A4F2B00F42287 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3747A5FD1F1A4F2B00F42287 /* ViewController.swift */; };
@@ -28,6 +37,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		37293A4B1F42D590006026F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 37293A421F42D590006026F8;
+			remoteInfo = IMDBSearch;
+		};
+		37293A5D1F42D65D006026F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 37293A541F42D65D006026F8;
+			remoteInfo = flickrSearch;
+		};
+		37293A6F1F42D6D5006026F8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 37293A661F42D6D4006026F8;
+			remoteInfo = twitterSearch;
+		};
 		3747A60D1F1A4F2B00F42287 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 3747A5F01F1A4F2B00F42287 /* Project object */;
@@ -67,6 +97,9 @@
 			files = (
 				37B4C6731F2511EA00CDC601 /* imageSearch.appex in Embed App Extensions */,
 				3747A6371F1A4F6C00F42287 /* selectsearchextension.appex in Embed App Extensions */,
+				37293A4D1F42D590006026F8 /* IMDBSearch.appex in Embed App Extensions */,
+				37293A711F42D6D5006026F8 /* twitterSearch.appex in Embed App Extensions */,
+				37293A5F1F42D65D006026F8 /* flickrSearch.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -78,6 +111,18 @@
 		3717CEA31F40F10E00082E0C /* dropSearchIcon_200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dropSearchIcon_200.png; sourceTree = "<group>"; };
 		3717CEA41F40F10E00082E0C /* dropSearchIcon_200@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dropSearchIcon_200@3x.png"; sourceTree = "<group>"; };
 		3717CEA51F40F10E00082E0C /* dropSearchIcon_200@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dropSearchIcon_200@2x.png"; sourceTree = "<group>"; };
+		37293A431F42D590006026F8 /* IMDBSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = IMDBSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293A451F42D590006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293A481F42D590006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293A4A1F42D590006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293A551F42D65D006026F8 /* flickrSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = flickrSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293A571F42D65D006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293A5A1F42D65D006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293A5C1F42D65D006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37293A671F42D6D4006026F8 /* twitterSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = twitterSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		37293A691F42D6D5006026F8 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
+		37293A6C1F42D6D5006026F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		37293A6E1F42D6D5006026F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3743D1E41F1EA94500CB492E /* ExtensionIcon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ExtensionIcon.xcassets; sourceTree = "<group>"; };
 		3747A5F81F1A4F2B00F42287 /* selectsearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = selectsearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +148,27 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		37293A401F42D590006026F8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A521F42D65D006026F8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A641F42D6D4006026F8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		3747A5F51F1A4F2B00F42287 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -151,14 +217,47 @@
 			name = Images;
 			sourceTree = "<group>";
 		};
+		37293A441F42D590006026F8 /* IMDBSearch */ = {
+			isa = PBXGroup;
+			children = (
+				37293A451F42D590006026F8 /* ActionViewController.swift */,
+				37293A471F42D590006026F8 /* MainInterface.storyboard */,
+				37293A4A1F42D590006026F8 /* Info.plist */,
+			);
+			path = IMDBSearch;
+			sourceTree = "<group>";
+		};
+		37293A561F42D65D006026F8 /* flickrSearch */ = {
+			isa = PBXGroup;
+			children = (
+				37293A571F42D65D006026F8 /* ActionViewController.swift */,
+				37293A591F42D65D006026F8 /* MainInterface.storyboard */,
+				37293A5C1F42D65D006026F8 /* Info.plist */,
+			);
+			path = flickrSearch;
+			sourceTree = "<group>";
+		};
+		37293A681F42D6D5006026F8 /* twitterSearch */ = {
+			isa = PBXGroup;
+			children = (
+				37293A691F42D6D5006026F8 /* ActionViewController.swift */,
+				37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */,
+				37293A6E1F42D6D5006026F8 /* Info.plist */,
+			);
+			path = twitterSearch;
+			sourceTree = "<group>";
+		};
 		3747A5EF1F1A4F2B00F42287 = {
 			isa = PBXGroup;
 			children = (
 				3747A5FA1F1A4F2B00F42287 /* selectsearch */,
 				3747A60F1F1A4F2B00F42287 /* selectsearchTests */,
 				3747A61A1F1A4F2B00F42287 /* selectsearchUITests */,
-				3747A62E1F1A4F6C00F42287 /* selectsearchextension */,
+				3747A62E1F1A4F6C00F42287 /* textSearch */,
 				37B4C66A1F2511EA00CDC601 /* imageSearch */,
+				37293A441F42D590006026F8 /* IMDBSearch */,
+				37293A561F42D65D006026F8 /* flickrSearch */,
+				37293A681F42D6D5006026F8 /* twitterSearch */,
 				3747A5F91F1A4F2B00F42287 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -171,6 +270,9 @@
 				3747A6171F1A4F2B00F42287 /* selectsearchUITests.xctest */,
 				3747A62D1F1A4F6C00F42287 /* selectsearchextension.appex */,
 				37B4C6691F2511EA00CDC601 /* imageSearch.appex */,
+				37293A431F42D590006026F8 /* IMDBSearch.appex */,
+				37293A551F42D65D006026F8 /* flickrSearch.appex */,
+				37293A671F42D6D4006026F8 /* twitterSearch.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -207,7 +309,7 @@
 			path = selectsearchUITests;
 			sourceTree = "<group>";
 		};
-		3747A62E1F1A4F6C00F42287 /* selectsearchextension */ = {
+		3747A62E1F1A4F6C00F42287 /* textSearch */ = {
 			isa = PBXGroup;
 			children = (
 				3747A62F1F1A4F6C00F42287 /* ActionViewController.swift */,
@@ -215,6 +317,7 @@
 				3747A6341F1A4F6C00F42287 /* Info.plist */,
 				3743D1E41F1EA94500CB492E /* ExtensionIcon.xcassets */,
 			);
+			name = textSearch;
 			path = selectsearchextension;
 			sourceTree = "<group>";
 		};
@@ -232,6 +335,57 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		37293A421F42D590006026F8 /* IMDBSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293A4E1F42D590006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */;
+			buildPhases = (
+				37293A3F1F42D590006026F8 /* Sources */,
+				37293A401F42D590006026F8 /* Frameworks */,
+				37293A411F42D590006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IMDBSearch;
+			productName = IMDBSearch;
+			productReference = 37293A431F42D590006026F8 /* IMDBSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		37293A541F42D65D006026F8 /* flickrSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293A601F42D65D006026F8 /* Build configuration list for PBXNativeTarget "flickrSearch" */;
+			buildPhases = (
+				37293A511F42D65D006026F8 /* Sources */,
+				37293A521F42D65D006026F8 /* Frameworks */,
+				37293A531F42D65D006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = flickrSearch;
+			productName = flickrSearch;
+			productReference = 37293A551F42D65D006026F8 /* flickrSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		37293A661F42D6D4006026F8 /* twitterSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37293A721F42D6D5006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */;
+			buildPhases = (
+				37293A631F42D6D4006026F8 /* Sources */,
+				37293A641F42D6D4006026F8 /* Frameworks */,
+				37293A651F42D6D4006026F8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = twitterSearch;
+			productName = twitterSearch;
+			productReference = 37293A671F42D6D4006026F8 /* twitterSearch.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		3747A5F71F1A4F2B00F42287 /* selectsearch */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3747A6201F1A4F2B00F42287 /* Build configuration list for PBXNativeTarget "selectsearch" */;
@@ -246,6 +400,9 @@
 			dependencies = (
 				3747A6361F1A4F6C00F42287 /* PBXTargetDependency */,
 				37B4C6721F2511EA00CDC601 /* PBXTargetDependency */,
+				37293A4C1F42D590006026F8 /* PBXTargetDependency */,
+				37293A5E1F42D65D006026F8 /* PBXTargetDependency */,
+				37293A701F42D6D5006026F8 /* PBXTargetDependency */,
 			);
 			name = selectsearch;
 			productName = selectsearch;
@@ -332,6 +489,21 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Daniel Pape";
 				TargetAttributes = {
+					37293A421F42D590006026F8 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6XK8CTGKE3;
+						ProvisioningStyle = Automatic;
+					};
+					37293A541F42D65D006026F8 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6XK8CTGKE3;
+						ProvisioningStyle = Automatic;
+					};
+					37293A661F42D6D4006026F8 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6XK8CTGKE3;
+						ProvisioningStyle = Automatic;
+					};
 					3747A5F71F1A4F2B00F42287 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
@@ -379,11 +551,38 @@
 				3747A6161F1A4F2B00F42287 /* selectsearchUITests */,
 				3747A62C1F1A4F6C00F42287 /* selectsearchextension */,
 				37B4C6681F2511EA00CDC601 /* imageSearch */,
+				37293A421F42D590006026F8 /* IMDBSearch */,
+				37293A541F42D65D006026F8 /* flickrSearch */,
+				37293A661F42D6D4006026F8 /* twitterSearch */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		37293A411F42D590006026F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A491F42D590006026F8 /* MainInterface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A531F42D65D006026F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A5B1F42D65D006026F8 /* MainInterface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A651F42D6D4006026F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A6D1F42D6D5006026F8 /* MainInterface.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		3747A5F61F1A4F2B00F42287 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -432,6 +631,30 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		37293A3F1F42D590006026F8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A461F42D590006026F8 /* ActionViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A511F42D65D006026F8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A581F42D65D006026F8 /* ActionViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		37293A631F42D6D4006026F8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				37293A6A1F42D6D5006026F8 /* ActionViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		3747A5F41F1A4F2B00F42287 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -476,6 +699,21 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		37293A4C1F42D590006026F8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 37293A421F42D590006026F8 /* IMDBSearch */;
+			targetProxy = 37293A4B1F42D590006026F8 /* PBXContainerItemProxy */;
+		};
+		37293A5E1F42D65D006026F8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 37293A541F42D65D006026F8 /* flickrSearch */;
+			targetProxy = 37293A5D1F42D65D006026F8 /* PBXContainerItemProxy */;
+		};
+		37293A701F42D6D5006026F8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 37293A661F42D6D4006026F8 /* twitterSearch */;
+			targetProxy = 37293A6F1F42D6D5006026F8 /* PBXContainerItemProxy */;
+		};
 		3747A60E1F1A4F2B00F42287 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 3747A5F71F1A4F2B00F42287 /* selectsearch */;
@@ -499,6 +737,30 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		37293A471F42D590006026F8 /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				37293A481F42D590006026F8 /* Base */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
+		37293A591F42D65D006026F8 /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				37293A5A1F42D65D006026F8 /* Base */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
+		37293A6B1F42D6D5006026F8 /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				37293A6C1F42D6D5006026F8 /* Base */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
 		3747A5FF1F1A4F2B00F42287 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -534,6 +796,84 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		37293A4F1F42D590006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = IMDBSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293A501F42D590006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = IMDBSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.IMDBSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		37293A611F42D65D006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = flickrSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.flickrSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293A621F42D65D006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = flickrSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.flickrSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		37293A731F42D6D5006026F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = twitterSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.twitterSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		37293A741F42D6D5006026F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 6XK8CTGKE3;
+				INFOPLIST_FILE = twitterSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.danielpape.dropSearch.twitterSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
 		3747A61E1F1A4F2B00F42287 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -778,6 +1118,30 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		37293A4E1F42D590006026F8 /* Build configuration list for PBXNativeTarget "IMDBSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37293A4F1F42D590006026F8 /* Debug */,
+				37293A501F42D590006026F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		37293A601F42D65D006026F8 /* Build configuration list for PBXNativeTarget "flickrSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37293A611F42D65D006026F8 /* Debug */,
+				37293A621F42D65D006026F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		37293A721F42D6D5006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37293A731F42D6D5006026F8 /* Debug */,
+				37293A741F42D6D5006026F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		3747A5F31F1A4F2B00F42287 /* Build configuration list for PBXProject "selectsearch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
