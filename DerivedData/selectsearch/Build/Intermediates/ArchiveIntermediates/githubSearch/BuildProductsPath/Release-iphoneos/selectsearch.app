@@ -1,0 +1,1 @@
+/Users/dan/Developer/iOS/selectsearch/DerivedData/selectsearch/Build/Intermediates/ArchiveIntermediates/githubSearch/InstallationBuildProductsLocation/Applications/selectsearch.app

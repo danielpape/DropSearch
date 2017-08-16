@@ -32,9 +32,13 @@
 		<data>
 		mSBo4I1LaU0GqjkegdEjqYMT1ks=
 		</data>
+		<key>IMDBIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		xQV0dMWqIIBjsYMLvl98VXBgFgA=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		FsSBxF5MlF869l8D819bGBn/xiw=
+		x6dSospPMTUOG5SPCcIkGiTQxgs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			OQBwU/+zXQlNOPlo7iF+Z1xwISzqKesY7Fvpa+sCof0=
+			</data>
+		</dict>
+		<key>IMDBIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xQV0dMWqIIBjsYMLvl98VXBgFgA=
+			</data>
+			<key>hash2</key>
+			<data>
+			aYjP5+XPEdI9mAfErNk2xDfnjyojTGn2OfrtgTc8MPo=
 			</data>
 		</dict>
 	</dict>

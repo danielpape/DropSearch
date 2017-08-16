@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "6876f19cbb76c114408062ab11998c8f"
+build_time: [556096145, 963826000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/IMDBSearch/ActionViewController.swift": [556096144, 0]

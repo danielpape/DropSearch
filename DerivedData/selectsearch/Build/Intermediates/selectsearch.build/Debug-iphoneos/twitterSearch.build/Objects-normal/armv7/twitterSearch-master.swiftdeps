@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "2e04929995eb68126b53b568ed5495dc"
+build_time: [556181964, 404547000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/twitterSearch/ActionViewController.swift": [556131874, 0]

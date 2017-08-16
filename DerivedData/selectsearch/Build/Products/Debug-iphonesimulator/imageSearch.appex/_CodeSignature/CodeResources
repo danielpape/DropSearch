@@ -32,9 +32,13 @@
 		<data>
 		qu0xsz2S386BXaU4Z+Tb4OfBpk0=
 		</data>
+		<key>ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		KkL1EqouX++5pZebOf9V2w3MjFM=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		zNbx81t4bKKEvCLTZxk+hwM9RKg=
+		z54/qodXlXXCVKlWnIbS2OHXy8A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			AUOcXmuGV235bLRf5XkIfwbq2SHg5CZ5Cx02xiPdGrM=
+			</data>
+		</dict>
+		<key>ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KkL1EqouX++5pZebOf9V2w3MjFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			PFq3hDkxvd8xKgAzFj6bpE6SiJOtkcrYA+KlkFWfy7g=
 			</data>
 		</dict>
 	</dict>

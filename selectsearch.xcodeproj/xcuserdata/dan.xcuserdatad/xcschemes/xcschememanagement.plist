@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>githubSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 		<key>imageSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -39,6 +44,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>stackOverflowSearch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>twitterSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -47,6 +57,21 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>3722FF041F441E5000084815</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3722FF181F441FB400084815</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3722FF2C1F44235B00084815</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>37293A421F42D590006026F8</key>
 		<dict>
 			<key>primary</key>

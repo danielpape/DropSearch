@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8iQAPPzvRhrGbgPHGUvP00Prj2g=
+		GE2kUe645Mm6TE6+I7zH44nj0lk=
 		</data>
 		<key>twitterIcon60x60@2x.png</key>
 		<data>
@@ -35,6 +35,10 @@
 		<key>twitterIcon76x76~ipad.png</key>
 		<data>
 		jXOWkfYF3uKkE9IKOBnbyU6DSeM=
+		</data>
+		<key>twitterIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		KIkLEdR66mVueuT6wvf2hCDV1q8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			do8em2O7O6Bj0eXpV3uaXPExu49qtbXT2wDKgL0wjMA=
+			</data>
+		</dict>
+		<key>twitterIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KIkLEdR66mVueuT6wvf2hCDV1q8=
+			</data>
+			<key>hash2</key>
+			<data>
+			78fU8V3z9+bADuZGHNe26HN2P8RhhAfRlJhtNlqvgoo=
 			</data>
 		</dict>
 	</dict>

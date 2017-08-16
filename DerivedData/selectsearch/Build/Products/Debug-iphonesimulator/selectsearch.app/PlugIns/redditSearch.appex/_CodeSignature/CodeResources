@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SjNelxVEBaYeq0WcSj3Cy8QDfLQ=
+		3hHRRCcvF7Z7zMLzABg5yBGRak4=
 		</data>
 		<key>redditIcon60x60@2x.png</key>
 		<data>
@@ -35,6 +35,10 @@
 		<key>redditIcon76x76~ipad.png</key>
 		<data>
 		RKcxB0OqiyoHmiiiErj7qcCtDc0=
+		</data>
+		<key>redditIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		0aWWP/ljVegiqr5RV77jytIiOrA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			PFw2MyG3pXipFeupsp/TKLGLhvfzB4Y5PoULzUM/cow=
+			</data>
+		</dict>
+		<key>redditIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0aWWP/ljVegiqr5RV77jytIiOrA=
+			</data>
+			<key>hash2</key>
+			<data>
+			tvflz+mY6JciNRzK8GcBQidSZJGmK+wHBmakmhvZszE=
 			</data>
 		</dict>
 	</dict>

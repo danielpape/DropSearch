@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4f857fd29a0d910a2464c8ef0e383c53"
+build_time: [556181963, 657003000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/githubSearch/ActionViewController.swift": [556181542, 0]

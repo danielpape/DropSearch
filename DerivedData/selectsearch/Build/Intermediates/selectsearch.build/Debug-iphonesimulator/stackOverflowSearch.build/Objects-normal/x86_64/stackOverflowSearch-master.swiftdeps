@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "5c9d02e9a97497b396503a78963f2844"
+build_time: [556180362, 25363000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/stackOverflowSearch/ActionViewController.swift": [556180361, 0]

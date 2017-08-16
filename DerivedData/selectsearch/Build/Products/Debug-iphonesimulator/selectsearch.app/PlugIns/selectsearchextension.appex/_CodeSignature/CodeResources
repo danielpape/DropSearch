@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XgPAA93wHuQF/pJO4s9BvKhmDB0=
+		rQxBha6Cf0DSYY6tIdsoLXRhL8E=
 		</data>
 		<key>appExtension60x60@2x.png</key>
 		<data>
@@ -35,6 +35,10 @@
 		<key>appExtension76x76~ipad.png</key>
 		<data>
 		NcLvyvM6khKEXLisWKMiIZbf56Y=
+		</data>
+		<key>appExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		Y/xV+/SYcq9JdjdVjoriqX+e45g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			P9Xg9FIc49G+IKNLpT1Q2McyfFNVtrEVg+e2PoYg4Mc=
+			</data>
+		</dict>
+		<key>appExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y/xV+/SYcq9JdjdVjoriqX+e45g=
+			</data>
+			<key>hash2</key>
+			<data>
+			hhMMyBQ2O3u5wjEHFREQ6f0UI4QeXTn6cwyAaj5GO8o=
 			</data>
 		</dict>
 	</dict>

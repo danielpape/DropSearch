@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "62c270b2b77adfea1acdde8135dfe088"
+build_time: [556182558, 381165000]
+inputs:
+  "/Users/dan/Developer/iOS/selectsearch/imageSearch/ActionViewController.swift": [9223372036854775807, 0]

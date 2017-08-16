@@ -20,6 +20,10 @@
 		<data>
 		6U91oise7S+XVYpbDyXZ5G1k8aA=
 		</data>
+		<key>BBCIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		2W/xcaWoN43rDXx2tao3uHoDl9A=
+		</data>
 		<key>Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<data>
 		LphSzypO58Ee41BVLe8F3DJZUps=
@@ -34,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		badf1kLIwcNzYTiBCsIIbAqgPgg=
+		rhMCiHss1rvJXf8x0zSnz+Bixsw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -81,6 +85,17 @@
 			<key>hash2</key>
 			<data>
 			BmIfcnjqmTu2f2xMR5PAEKnKAu3mt5DN/7bQCoIhhj4=
+			</data>
+		</dict>
+		<key>BBCIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2W/xcaWoN43rDXx2tao3uHoDl9A=
+			</data>
+			<key>hash2</key>
+			<data>
+			ioUDdlcHdSftO3tdcOLGAOCmeNaaNHcVxEsLnmpADzc=
 			</data>
 		</dict>
 		<key>Base.lproj/MainInterface.storyboardc/Info.plist</key>
