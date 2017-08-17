@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		44Z2nBN56S0yuJNf9kEzq1HHbCQ=
+		u8XhqbIHMLlL63cNaC8F6o2lBiA=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -39,6 +39,10 @@
 		<key>redditIcon76x76~ipad.png</key>
 		<data>
 		F+Pqc+asPHNVE7YjUFLNU5gTCWk=
+		</data>
+		<key>redditIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		xLRyHUgkgDV5lSx6/ljFH4EvmSc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -129,6 +133,17 @@
 			<key>hash2</key>
 			<data>
 			Tia8maZOGwwYXR114Emucq4GUCSkwD+f5aMsmmy3yB0=
+			</data>
+		</dict>
+		<key>redditIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xLRyHUgkgDV5lSx6/ljFH4EvmSc=
+			</data>
+			<key>hash2</key>
+			<data>
+			BjUXU8WEmSPfVhTpCUUcVamGC65/adfY6j6eZopWN+k=
 			</data>
 		</dict>
 	</dict>

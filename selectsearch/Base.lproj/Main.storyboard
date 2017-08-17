@@ -10,10 +10,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--How to-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="selectsearch" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="How to" id="BYZ-38-t0r" customClass="ViewController" customModule="selectsearch" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -23,85 +23,113 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z20-cp-7R5">
-                                <rect key="frame" x="16" y="402" width="343" height="74"/>
+                                <rect key="frame" x="35" y="307" width="300" height="74"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="74" id="DJv-vV-rNu"/>
-                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="343" id="Xr4-4A-nm2"/>
+                                    <constraint firstAttribute="width" constant="300" id="sRj-53-svx"/>
+                                    <constraint firstAttribute="height" constant="74" id="wSX-zT-v7h"/>
                                 </constraints>
                                 <string key="text">To enable DropSearch first select a piece of text, then tap on Share, then tap on More and flick the switch next to DropSearch Text so that it's green.</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="To use DropSearch make sure it's enabled and then select any text, then tap share, then tap DropSearch." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JRr-CE-s9m">
-                                <rect key="frame" x="16" y="513" width="343" height="74"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Here's how to enable DropSearch" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YjI-hw-EOz">
+                                <rect key="frame" x="37.5" y="278" width="300" height="21"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="343" id="qhX-uq-kIk"/>
+                                    <constraint firstAttribute="width" constant="300" id="WUW-aq-YzZ"/>
+                                    <constraint firstAttribute="height" constant="21" id="zJW-ys-kcn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nearly done!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NjY-Ut-gxq">
+                                <rect key="frame" x="67" y="212" width="241" height="37"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="37" id="Wr7-ki-0fJ"/>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="37" id="lmM-hJ-nae"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="28"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DropSearchSymbols.png" translatesAutoresizingMaskIntoConstraints="NO" id="X1o-gg-mqT">
+                                <rect key="frame" x="37" y="40" width="300" height="153"/>
+                            </imageView>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" barStyle="black" translatesAutoresizingMaskIntoConstraints="NO" id="YOn-75-eCy">
+                                <rect key="frame" x="0.0" y="623" width="375" height="44"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="44" id="WJt-1D-27v"/>
+                                </constraints>
+                                <items>
+                                    <barButtonItem enabled="NO" title="Search provider:" id="xQD-mg-JLA">
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    </barButtonItem>
+                                    <barButtonItem image="GoogleLogo_30.png" style="plain" id="ggb-Di-uNA">
+                                        <color key="tintColor" red="0.96078431372549022" green="0.0" blue="0.3411764705882353" alpha="1" colorSpace="calibratedRGB"/>
+                                        <connections>
+                                            <action selector="tapSelectSearchProvider:" destination="BYZ-38-t0r" id="tgb-L4-OuO"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to search" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dOq-NX-BsT">
+                                <rect key="frame" x="37.5" y="407" width="300" height="24"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="To use DropSearch make sure it's enabled and then select any text, then tap share, then tap DropSearch." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JRr-CE-s9m">
+                                <rect key="frame" x="37.5" y="436" width="300" height="89"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="Wi8-Tj-aG4"/>
                                 </constraints>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to enable DropSearch" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YjI-hw-EOz">
-                                <rect key="frame" x="16" y="373" width="343" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="21" id="3Y5-Gf-OpO"/>
-                                    <constraint firstAttribute="width" constant="343" id="A6B-1V-oUy"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to search" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dOq-NX-BsT">
-                                <rect key="frame" x="16" y="484" width="343" height="24"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="343" id="5kH-Hn-GhL"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dropSearchIcon_200.png" translatesAutoresizingMaskIntoConstraints="NO" id="X1o-gg-mqT">
-                                <rect key="frame" x="87" y="65" width="200" height="200"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DropSearch" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GaD-ra-lHj">
-                                <rect key="frame" x="16" y="273" width="343" height="46"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="46" id="O4e-bU-x8T"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" red="0.10196078431372549" green="0.13725490196078433" blue="0.49411764705882355" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstAttribute="leadingMargin" secondItem="z20-cp-7R5" secondAttribute="leading" priority="999" id="12B-pT-txM"/>
-                            <constraint firstItem="YjI-hw-EOz" firstAttribute="top" secondItem="GaD-ra-lHj" secondAttribute="bottom" constant="54" id="2FG-9Z-HMJ"/>
-                            <constraint firstItem="dOq-NX-BsT" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6OY-Kr-2wQ"/>
-                            <constraint firstItem="JRr-CE-s9m" firstAttribute="top" secondItem="dOq-NX-BsT" secondAttribute="bottom" constant="5" id="Bmz-a1-Gwo"/>
-                            <constraint firstItem="GaD-ra-lHj" firstAttribute="top" secondItem="X1o-gg-mqT" secondAttribute="bottom" constant="8" symbolic="YES" id="InU-j0-UA0"/>
-                            <constraint firstItem="GaD-ra-lHj" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="JPc-wg-P2Q"/>
-                            <constraint firstItem="X1o-gg-mqT" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="45" id="M8l-74-EyO"/>
-                            <constraint firstItem="X1o-gg-mqT" firstAttribute="centerX" secondItem="GaD-ra-lHj" secondAttribute="centerX" id="RQm-WN-ZMw"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="JRr-CE-s9m" secondAttribute="bottom" constant="80" id="XMD-Rx-eXf"/>
-                            <constraint firstItem="z20-cp-7R5" firstAttribute="top" secondItem="YjI-hw-EOz" secondAttribute="bottom" constant="8" symbolic="YES" id="ZNI-tE-QM1"/>
-                            <constraint firstItem="JRr-CE-s9m" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Zdu-5j-jTk"/>
-                            <constraint firstItem="dOq-NX-BsT" firstAttribute="top" secondItem="z20-cp-7R5" secondAttribute="bottom" constant="8" symbolic="YES" id="akZ-XY-e0X"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="z20-cp-7R5" secondAttribute="trailing" priority="999" id="i3c-pP-8gy"/>
-                            <constraint firstItem="YjI-hw-EOz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="opg-2S-ojK"/>
-                            <constraint firstItem="GaD-ra-lHj" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="w9F-Na-2Ec"/>
-                            <constraint firstItem="z20-cp-7R5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yUM-rA-Fb4"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="top" secondItem="NjY-Ut-gxq" secondAttribute="bottom" constant="29" id="0o3-07-U9p"/>
+                            <constraint firstItem="dOq-NX-BsT" firstAttribute="top" secondItem="z20-cp-7R5" secondAttribute="bottom" constant="26" id="6TA-Bh-FN9"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="centerX" secondItem="z20-cp-7R5" secondAttribute="centerX" constant="2.5" id="925-jJ-yqK"/>
+                            <constraint firstItem="X1o-gg-mqT" firstAttribute="centerX" secondItem="z20-cp-7R5" secondAttribute="centerX" constant="2" id="AMT-Ea-u7d"/>
+                            <constraint firstItem="z20-cp-7R5" firstAttribute="leading" secondItem="JRr-CE-s9m" secondAttribute="leading" constant="-2.5" id="CA1-2N-GpE"/>
+                            <constraint firstItem="JRr-CE-s9m" firstAttribute="top" secondItem="dOq-NX-BsT" secondAttribute="bottom" constant="5" id="G5N-pu-Z7X"/>
+                            <constraint firstItem="NjY-Ut-gxq" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="51" id="MOH-ot-v6w"/>
+                            <constraint firstAttribute="trailing" secondItem="YOn-75-eCy" secondAttribute="trailing" id="Nwk-N8-2V7"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="trailing" secondItem="dOq-NX-BsT" secondAttribute="trailing" id="UZq-bV-cM7"/>
+                            <constraint firstItem="NjY-Ut-gxq" firstAttribute="top" secondItem="X1o-gg-mqT" secondAttribute="bottom" constant="19" id="YtJ-xY-4Ve"/>
+                            <constraint firstItem="z20-cp-7R5" firstAttribute="top" secondItem="YjI-hw-EOz" secondAttribute="bottom" constant="8" symbolic="YES" id="ZAa-FQ-INA"/>
+                            <constraint firstItem="z20-cp-7R5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-2.5" id="dPw-M6-y4j"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="m6e-sh-QaQ"/>
+                            <constraint firstItem="YOn-75-eCy" firstAttribute="top" secondItem="JRr-CE-s9m" secondAttribute="bottom" constant="98" id="o27-wJ-Fa9"/>
+                            <constraint firstItem="YOn-75-eCy" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="oRm-JK-auk"/>
+                            <constraint firstItem="z20-cp-7R5" firstAttribute="trailing" secondItem="JRr-CE-s9m" secondAttribute="trailing" constant="-2.5" id="tUJ-EC-zPp"/>
+                            <constraint firstItem="YOn-75-eCy" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="vPX-Nm-PFL"/>
+                            <constraint firstItem="dOq-NX-BsT" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="w2s-iZ-Srl"/>
+                            <constraint firstItem="X1o-gg-mqT" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="40" id="wXt-gv-Ib1"/>
+                            <constraint firstItem="JRr-CE-s9m" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="xQH-r2-yAq"/>
+                            <constraint firstItem="YjI-hw-EOz" firstAttribute="leading" secondItem="dOq-NX-BsT" secondAttribute="leading" id="xea-9J-6Fs"/>
+                            <constraint firstItem="NjY-Ut-gxq" firstAttribute="centerX" secondItem="YjI-hw-EOz" secondAttribute="centerX" id="y7B-s9-r7Z"/>
                         </constraints>
                     </view>
-                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <nil key="simulatedTopBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="setSearchProviderButton" destination="ggb-Di-uNA" id="8LS-Ox-24S"/>
+                        <outlet property="toolbar" destination="YOn-75-eCy" id="hR7-U7-p0n"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="136.80000000000001" y="138.98050974512745"/>
+            <point key="canvasLocation" x="749.60000000000002" y="-83.208395802098963"/>
         </scene>
     </scenes>
     <resources>
-        <image name="dropSearchIcon_200.png" width="200" height="200"/>
+        <image name="DropSearchSymbols.png" width="300" height="153"/>
+        <image name="GoogleLogo_30.png" width="30" height="30"/>
     </resources>
 </document>

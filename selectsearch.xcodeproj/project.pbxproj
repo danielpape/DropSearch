@@ -50,6 +50,21 @@
 		3747A6301F1A4F6C00F42287 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3747A62F1F1A4F6C00F42287 /* ActionViewController.swift */; };
 		3747A6331F1A4F6C00F42287 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3747A6311F1A4F6C00F42287 /* MainInterface.storyboard */; };
 		3747A6371F1A4F6C00F42287 /* selectsearchextension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3747A62D1F1A4F6C00F42287 /* selectsearchextension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37607D011F45D40D005CEE6C /* GoogleLogo_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607CFE1F45D40D005CEE6C /* GoogleLogo_30.png */; };
+		37607D021F45D40D005CEE6C /* GoogleLogo_30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607CFF1F45D40D005CEE6C /* GoogleLogo_30@2x.png */; };
+		37607D031F45D40D005CEE6C /* GoogleLogo_30@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D001F45D40D005CEE6C /* GoogleLogo_30@3x.png */; };
+		37607D0D1F45D49E005CEE6C /* BingLogo_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D0A1F45D49E005CEE6C /* BingLogo_30.png */; };
+		37607D0E1F45D49E005CEE6C /* BingLogo_30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D0B1F45D49E005CEE6C /* BingLogo_30@2x.png */; };
+		37607D0F1F45D49E005CEE6C /* BingLogo_30@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D0C1F45D49E005CEE6C /* BingLogo_30@3x.png */; };
+		37607D131F45D4A9005CEE6C /* YahooLogo_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D101F45D4A9005CEE6C /* YahooLogo_30.png */; };
+		37607D141F45D4A9005CEE6C /* YahooLogo_30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D111F45D4A9005CEE6C /* YahooLogo_30@2x.png */; };
+		37607D151F45D4A9005CEE6C /* YahooLogo_30@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D121F45D4A9005CEE6C /* YahooLogo_30@3x.png */; };
+		37607D191F45D581005CEE6C /* DuckDuckGoLogo_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D161F45D581005CEE6C /* DuckDuckGoLogo_30.png */; };
+		37607D1A1F45D581005CEE6C /* DuckDuckGoLogo_30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D171F45D581005CEE6C /* DuckDuckGoLogo_30@2x.png */; };
+		37607D1B1F45D581005CEE6C /* DuckDuckGoLogo_30@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D181F45D581005CEE6C /* DuckDuckGoLogo_30@3x.png */; };
+		37607D261F463287005CEE6C /* DropSearchSymbols.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D231F463287005CEE6C /* DropSearchSymbols.png */; };
+		37607D271F463287005CEE6C /* DropSearchSymbols@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D241F463287005CEE6C /* DropSearchSymbols@2x.png */; };
+		37607D281F463287005CEE6C /* DropSearchSymbols@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37607D251F463287005CEE6C /* DropSearchSymbols@3x.png */; };
 		37B4C66C1F2511EA00CDC601 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B4C66B1F2511EA00CDC601 /* ActionViewController.swift */; };
 		37B4C66F1F2511EA00CDC601 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37B4C66D1F2511EA00CDC601 /* MainInterface.storyboard */; };
 		37B4C6731F2511EA00CDC601 /* imageSearch.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 37B4C6691F2511EA00CDC601 /* imageSearch.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -215,6 +230,24 @@
 		3747A62F1F1A4F6C00F42287 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
 		3747A6321F1A4F6C00F42287 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		3747A6341F1A4F6C00F42287 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37607CE41F45812E005CEE6C /* selectsearch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = selectsearch.entitlements; sourceTree = "<group>"; };
+		37607CE51F45815F005CEE6C /* selectsearchextension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = selectsearchextension.entitlements; path = selectsearchextension/selectsearchextension.entitlements; sourceTree = "<group>"; };
+		37607CFE1F45D40D005CEE6C /* GoogleLogo_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GoogleLogo_30.png; sourceTree = "<group>"; };
+		37607CFF1F45D40D005CEE6C /* GoogleLogo_30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GoogleLogo_30@2x.png"; sourceTree = "<group>"; };
+		37607D001F45D40D005CEE6C /* GoogleLogo_30@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GoogleLogo_30@3x.png"; sourceTree = "<group>"; };
+		37607D0A1F45D49E005CEE6C /* BingLogo_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BingLogo_30.png; sourceTree = "<group>"; };
+		37607D0B1F45D49E005CEE6C /* BingLogo_30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BingLogo_30@2x.png"; sourceTree = "<group>"; };
+		37607D0C1F45D49E005CEE6C /* BingLogo_30@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BingLogo_30@3x.png"; sourceTree = "<group>"; };
+		37607D101F45D4A9005CEE6C /* YahooLogo_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YahooLogo_30.png; sourceTree = "<group>"; };
+		37607D111F45D4A9005CEE6C /* YahooLogo_30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YahooLogo_30@2x.png"; sourceTree = "<group>"; };
+		37607D121F45D4A9005CEE6C /* YahooLogo_30@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YahooLogo_30@3x.png"; sourceTree = "<group>"; };
+		37607D161F45D581005CEE6C /* DuckDuckGoLogo_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DuckDuckGoLogo_30.png; sourceTree = "<group>"; };
+		37607D171F45D581005CEE6C /* DuckDuckGoLogo_30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DuckDuckGoLogo_30@2x.png"; sourceTree = "<group>"; };
+		37607D181F45D581005CEE6C /* DuckDuckGoLogo_30@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DuckDuckGoLogo_30@3x.png"; sourceTree = "<group>"; };
+		37607D1C1F460FA9005CEE6C /* imageSearch.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = imageSearch.entitlements; sourceTree = "<group>"; };
+		37607D231F463287005CEE6C /* DropSearchSymbols.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DropSearchSymbols.png; sourceTree = "<group>"; };
+		37607D241F463287005CEE6C /* DropSearchSymbols@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DropSearchSymbols@2x.png"; sourceTree = "<group>"; };
+		37607D251F463287005CEE6C /* DropSearchSymbols@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DropSearchSymbols@3x.png"; sourceTree = "<group>"; };
 		37B4C6691F2511EA00CDC601 /* imageSearch.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = imageSearch.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		37B4C66B1F2511EA00CDC601 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
 		37B4C66E1F2511EA00CDC601 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
@@ -312,9 +345,24 @@
 		3717CE961F40EEAF00082E0C /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				37607D101F45D4A9005CEE6C /* YahooLogo_30.png */,
+				37607D111F45D4A9005CEE6C /* YahooLogo_30@2x.png */,
+				37607D121F45D4A9005CEE6C /* YahooLogo_30@3x.png */,
+				37607D0A1F45D49E005CEE6C /* BingLogo_30.png */,
+				37607D0B1F45D49E005CEE6C /* BingLogo_30@2x.png */,
+				37607D0C1F45D49E005CEE6C /* BingLogo_30@3x.png */,
+				37607CFE1F45D40D005CEE6C /* GoogleLogo_30.png */,
+				37607CFF1F45D40D005CEE6C /* GoogleLogo_30@2x.png */,
+				37607D001F45D40D005CEE6C /* GoogleLogo_30@3x.png */,
 				3717CEA31F40F10E00082E0C /* dropSearchIcon_200.png */,
 				3717CEA41F40F10E00082E0C /* dropSearchIcon_200@3x.png */,
 				3717CEA51F40F10E00082E0C /* dropSearchIcon_200@2x.png */,
+				37607D161F45D581005CEE6C /* DuckDuckGoLogo_30.png */,
+				37607D171F45D581005CEE6C /* DuckDuckGoLogo_30@2x.png */,
+				37607D181F45D581005CEE6C /* DuckDuckGoLogo_30@3x.png */,
+				37607D231F463287005CEE6C /* DropSearchSymbols.png */,
+				37607D241F463287005CEE6C /* DropSearchSymbols@2x.png */,
+				37607D251F463287005CEE6C /* DropSearchSymbols@3x.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -399,6 +447,7 @@
 		3747A5EF1F1A4F2B00F42287 = {
 			isa = PBXGroup;
 			children = (
+				37607CE51F45815F005CEE6C /* selectsearchextension.entitlements */,
 				3747A5FA1F1A4F2B00F42287 /* selectsearch */,
 				3747A60F1F1A4F2B00F42287 /* selectsearchTests */,
 				3747A61A1F1A4F2B00F42287 /* selectsearchUITests */,
@@ -437,6 +486,7 @@
 		3747A5FA1F1A4F2B00F42287 /* selectsearch */ = {
 			isa = PBXGroup;
 			children = (
+				37607CE41F45812E005CEE6C /* selectsearch.entitlements */,
 				3717CE961F40EEAF00082E0C /* Images */,
 				3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */,
 				3747A5FD1F1A4F2B00F42287 /* ViewController.swift */,
@@ -481,6 +531,7 @@
 		37B4C66A1F2511EA00CDC601 /* imageSearch */ = {
 			isa = PBXGroup;
 			children = (
+				37607D1C1F460FA9005CEE6C /* imageSearch.entitlements */,
 				37B4C66B1F2511EA00CDC601 /* ActionViewController.swift */,
 				37B4C66D1F2511EA00CDC601 /* MainInterface.storyboard */,
 				37B4C6701F2511EA00CDC601 /* Info.plist */,
@@ -757,6 +808,11 @@
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					3747A60B1F1A4F2B00F42287 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -774,11 +830,21 @@
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					37B4C6681F2511EA00CDC601 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 6XK8CTGKE3;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -879,12 +945,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37607D031F45D40D005CEE6C /* GoogleLogo_30@3x.png in Resources */,
 				3747A6061F1A4F2B00F42287 /* LaunchScreen.storyboard in Resources */,
 				3747A6031F1A4F2B00F42287 /* Assets.xcassets in Resources */,
 				3717CEA61F40F10E00082E0C /* dropSearchIcon_200.png in Resources */,
+				37607D0F1F45D49E005CEE6C /* BingLogo_30@3x.png in Resources */,
+				37607D0D1F45D49E005CEE6C /* BingLogo_30.png in Resources */,
+				37607D151F45D4A9005CEE6C /* YahooLogo_30@3x.png in Resources */,
+				37607D1A1F45D581005CEE6C /* DuckDuckGoLogo_30@2x.png in Resources */,
+				37607D131F45D4A9005CEE6C /* YahooLogo_30.png in Resources */,
 				3747A6011F1A4F2B00F42287 /* Main.storyboard in Resources */,
 				3717CEA71F40F10E00082E0C /* dropSearchIcon_200@3x.png in Resources */,
+				37607D281F463287005CEE6C /* DropSearchSymbols@3x.png in Resources */,
+				37607D261F463287005CEE6C /* DropSearchSymbols.png in Resources */,
+				37607D0E1F45D49E005CEE6C /* BingLogo_30@2x.png in Resources */,
+				37607D271F463287005CEE6C /* DropSearchSymbols@2x.png in Resources */,
+				37607D021F45D40D005CEE6C /* GoogleLogo_30@2x.png in Resources */,
+				37607D141F45D4A9005CEE6C /* YahooLogo_30@2x.png in Resources */,
 				3717CEA81F40F10E00082E0C /* dropSearchIcon_200@2x.png in Resources */,
+				37607D1B1F45D581005CEE6C /* DuckDuckGoLogo_30@3x.png in Resources */,
+				37607D011F45D40D005CEE6C /* GoogleLogo_30.png in Resources */,
+				37607D191F45D581005CEE6C /* DuckDuckGoLogo_30.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1468,6 +1549,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = selectsearch/selectsearch.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = selectsearch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
@@ -1484,6 +1566,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = selectsearch/selectsearch.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = selectsearch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
@@ -1557,6 +1640,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = appExtension;
+				CODE_SIGN_ENTITLEMENTS = selectsearchextension/selectsearchextension.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = selectsearchextension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -1571,6 +1655,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = appExtension;
+				CODE_SIGN_ENTITLEMENTS = selectsearchextension/selectsearchextension.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = selectsearchextension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -1585,6 +1670,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = ImageSearchExtension;
+				CODE_SIGN_ENTITLEMENTS = imageSearch/imageSearch.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = imageSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -1599,6 +1685,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = ImageSearchExtension;
+				CODE_SIGN_ENTITLEMENTS = imageSearch/imageSearch.entitlements;
 				DEVELOPMENT_TEAM = 6XK8CTGKE3;
 				INFOPLIST_FILE = imageSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
@@ -1619,6 +1706,7 @@
 				3722FF111F441E5000084815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3722FF241F441FB400084815 /* Build configuration list for PBXNativeTarget "githubSearch" */ = {
 			isa = XCConfigurationList;
@@ -1627,6 +1715,7 @@
 				3722FF261F441FB400084815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3722FF381F44235B00084815 /* Build configuration list for PBXNativeTarget "flickrSearch" */ = {
 			isa = XCConfigurationList;
@@ -1635,6 +1724,7 @@
 				3722FF3A1F44235B00084815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37293A851F4360FA006026F8 /* Build configuration list for PBXNativeTarget "twitterSearch" */ = {
 			isa = XCConfigurationList;

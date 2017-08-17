@@ -34,9 +34,27 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                         
                                         if self.convertedString != nil {
                                             self.convertedString = self.convertedString!.addingPercentEncoding( withAllowedCharacters: .urlQueryAllowed)
+                                        
+                                        let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
+                                        let searchProvider = String(describing: defaults?.object(forKey: "searchProvider"))
+                                        
+                                        var searchProviderString = ""
+                                        
+                                        switch searchProvider {
+                                        case "Optional(google)":
+                                            searchProviderString = "https://www.google.co.uk/search?q="+self.convertedString!+"&tbm=isch"
+                                        case "Optional(bing)":
+                                            searchProviderString = "https://www.bing.com/images/search?q="+self.convertedString!
+                                        case "Optional(yahoo)":
+                                            searchProviderString = "https://images.search.yahoo.com/search/images?p="+self.convertedString!
+                                        case "Optional(duckduckgo)":
+                                            searchProviderString = "https://duckduckgo.com/?q="+self.convertedString!+"&ia=images"
+                                        default:
+                                            searchProviderString = "https://www.google.co.uk/search?q="+self.convertedString!+"&tbm=isch"
+                                        }
                                             
                                             DispatchQueue.main.async {
-                                                let svc = SFSafariViewController(url: URL(string:"https://www.google.co.uk/#q="+self.convertedString!+"&tbm=isch")!)
+                                                let svc = SFSafariViewController(url: URL(string:searchProviderString)!)
                                                 svc.delegate = self
                                                 svc.modalPresentationCapturesStatusBarAppearance = true
                                                 self.present(svc, animated: true, completion: nil)

@@ -16,6 +16,24 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
+        let searchProvider = String(describing: defaults?.object(forKey: "searchProvider"))
+        
+        var searchProviderString = ""
+        
+        switch searchProvider {
+        case "Optional(google)":
+            searchProviderString = "https://www.google.co.uk/#q="
+        case "Optional(bing)":
+            searchProviderString = "https://www.bing.com/search?q="
+        case "Optional(yahoo)":
+            searchProviderString = "https://search.yahoo.com/search?p="
+        case "Optional(duckduckgo)":
+            searchProviderString = "https://duckduckgo.com/?q="
+        default:
+            searchProviderString = "https://www.google.co.uk/#q="
+        }
     
         let textItem = self.extensionContext!.inputItems[0]
             as! NSExtensionItem
@@ -34,9 +52,11 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                         
                                         if self.convertedString != nil {
                                             self.convertedString = self.convertedString!.addingPercentEncoding( withAllowedCharacters: .urlQueryAllowed)
+                                            
+                                        
 
                                             DispatchQueue.main.async {
-                                                let svc = SFSafariViewController(url: URL(string:"https://www.google.co.uk/#q="+self.convertedString!)!)
+                                                let svc = SFSafariViewController(url: URL(string:searchProviderString+self.convertedString!)!)
                                                 svc.delegate = self
                                                 svc.modalPresentationCapturesStatusBarAppearance = true
                                                 self.present(svc, animated: true, completion: nil)

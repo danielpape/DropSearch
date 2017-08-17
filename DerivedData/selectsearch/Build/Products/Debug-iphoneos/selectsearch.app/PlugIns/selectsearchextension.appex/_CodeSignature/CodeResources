@@ -10,15 +10,15 @@
 		</data>
 		<key>Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
 		<data>
-		Pr8sdDfkXNHI1gIv7v9dLAGChIE=
+		i1YihAmB4YFTrLnKaP4FA8sX+4k=
 		</data>
 		<key>Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
 		<data>
-		58ccHCfMg7mC8RggdyB4IYZ3DwU=
+		ICDfmbXFOJqO4SyKdtGIKa5m72I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rTzwtxQ0+hUjj/FPRb6BHvHroL4=
+		UikxmHB9blHyzO4ngEFg8+Ogyj8=
 		</data>
 		<key>appExtension60x60@2x.png</key>
 		<data>
@@ -36,9 +36,13 @@
 		<data>
 		zj3nZ2Ci1uxSOzZD/B9ytwG3JIM=
 		</data>
+		<key>appExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		vtaRcMsyAxz6b3T+0NKfTEpPb28=
+		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		u44bwkYsCs2ciTPOIP9bbj4Le1c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -58,22 +62,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr8sdDfkXNHI1gIv7v9dLAGChIE=
+			i1YihAmB4YFTrLnKaP4FA8sX+4k=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VxCuQx4aOMASt9BEsVcFyPXf4GapQy0SeFIXub3r8U=
+			w5mKbZdA5qpVCZ/kadUWefDZabTYMMl49K0357U5Fos=
 			</data>
 		</dict>
 		<key>Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			58ccHCfMg7mC8RggdyB4IYZ3DwU=
+			ICDfmbXFOJqO4SyKdtGIKa5m72I=
 			</data>
 			<key>hash2</key>
 			<data>
-			+MEbYL0D33TA7H9w0AX6oIY8VPNNQGsa9HchHUPfqJg=
+			+uEHctifkVuGEVKhuk7QwvTI2P47MXlxZMGDRjVIg/Y=
 			</data>
 		</dict>
 		<key>appExtension60x60@2x.png</key>
@@ -120,15 +124,26 @@
 			TPy4p0+O+xsttnu9ZJFGXEVqUXVwevxJXNS+G2q+NPQ=
 			</data>
 		</dict>
+		<key>appExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vtaRcMsyAxz6b3T+0NKfTEpPb28=
+			</data>
+			<key>hash2</key>
+			<data>
+			/QWyfd24gIcSwpCktr3eh92GXmrD/nUV75RKrxgXTys=
+			</data>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			u44bwkYsCs2ciTPOIP9bbj4Le1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			eqK+afDrhSiADG08YU5uauONVPG+iLMYV8gKk0HvJEQ=
 			</data>
 		</dict>
 	</dict>

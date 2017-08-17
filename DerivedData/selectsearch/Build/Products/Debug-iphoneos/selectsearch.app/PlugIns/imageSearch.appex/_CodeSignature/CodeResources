@@ -32,13 +32,17 @@
 		<data>
 		de9/rY5RW81GyMhJGH6ryhhmvF8=
 		</data>
+		<key>ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		ha4YpbJ27ibLkAToZNtChi1bHQ8=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		hirRL24SlK0Sj0yM6T61CwHE5c4=
+		wjaQM/WeA8HXXpY1OaAUK0TmPNo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		9Fn2Gb5TJ7S3N1aPlh7ROLlK76k=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -120,15 +124,26 @@
 			ZrB5MU5eFROGOnW5zfMyqE81RVnuPHlaKdmtgpd2nr8=
 			</data>
 		</dict>
+		<key>ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ha4YpbJ27ibLkAToZNtChi1bHQ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			CL/T0HB2ykETp3te0sr0geI9rSw8AM0wbsCZBGHh0u0=
+			</data>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			9Fn2Gb5TJ7S3N1aPlh7ROLlK76k=
 			</data>
 			<key>hash2</key>
 			<data>
-			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			xg6os6sobbR86VMmMBqs5kdhw/gjO7Fc2YhjWnTLlNw=
 			</data>
 		</dict>
 	</dict>

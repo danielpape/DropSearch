@@ -90,7 +90,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		3eBRFPU05O2VQaxvH1WPMNSKA7k=
+		MLunphQDRI2GnAdLj50jbxmD5PQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -98,7 +98,31 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		MQMIS8QX8lXHdGT7ZSUmkmYUOfo=
+		nqKG3vdGcEsL+7vIMVFCJeKBwN0=
+		</data>
+		<key>BingLogo_30.png</key>
+		<data>
+		BrnXJ8RB94ayN67aMeiDzagoCSw=
+		</data>
+		<key>BingLogo_30@2x.png</key>
+		<data>
+		v/Vb7aVVgbeFLoi6Two+xC0P/6s=
+		</data>
+		<key>BingLogo_30@3x.png</key>
+		<data>
+		mOQZIuAU6GXmOMyn/YRqKn53LD8=
+		</data>
+		<key>DuckDuckGoLogo_30.png</key>
+		<data>
+		ptMwdmerApEDvM5JYB+7BBd4JuE=
+		</data>
+		<key>DuckDuckGoLogo_30@2x.png</key>
+		<data>
+		Djp4yGcwsFS6rWt/3EChi7ROtlQ=
+		</data>
+		<key>DuckDuckGoLogo_30@3x.png</key>
+		<data>
+		GG1lVtwk6jEw6HbamodjS1VMNRQ=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -140,9 +164,21 @@
 		<data>
 		PKEvt7Q8hNW2IAPcQHt4zYyQJ7M=
 		</data>
+		<key>GoogleLogo_30.png</key>
+		<data>
+		xD1O1OLztaMGHrd3Dgho1bshSAg=
+		</data>
+		<key>GoogleLogo_30@2x.png</key>
+		<data>
+		VAZltlyLEYhQsW4rjwUmTxZsGuA=
+		</data>
+		<key>GoogleLogo_30@3x.png</key>
+		<data>
+		PYAyhjBWZ6WICtDGbAwCDAC9Zgc=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		JkKo5BHx2wZIeiQ/UyrPJznv15A=
+		UxIsJoOOmdpme+cOB8EosTfhgSY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -164,9 +200,13 @@
 		<data>
 		KckiviR7fTP6ZDEZ3mBoCMWFZuk=
 		</data>
+		<key>PlugIns/BBCSearch.appex/BBCIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		vkcXaiwKnvvAt59yRPHcbZ7S3lM=
+		</data>
 		<key>PlugIns/BBCSearch.appex/BBCSearch</key>
 		<data>
-		GAcRpuu/QzaEUixPvHBEFYKJlxg=
+		ljTMPVzKvgZTXbcO8wseDHAz3u0=
 		</data>
 		<key>PlugIns/BBCSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -197,11 +237,11 @@
 		</dict>
 		<key>PlugIns/BBCSearch.appex/Info.plist</key>
 		<data>
-		ef8FqUGzzZg3R0x7NSIrmNTI2tA=
+		AoAFbzYI5xlkmof+U58ylW8stZc=
 		</data>
 		<key>PlugIns/BBCSearch.appex/_CodeSignature/CodeResources</key>
 		<data>
-		O0+rxhztbZ8nme2B3kudykYHQRY=
+		SZ8G5rCzolpOL18OO1prstYTLDo=
 		</data>
 		<key>PlugIns/BBCSearch.appex/embedded.mobileprovision</key>
 		<data>
@@ -250,21 +290,151 @@
 		<data>
 		S0RE9Z7foSX4ALtE7C494uiDmCc=
 		</data>
+		<key>PlugIns/IMDBSearch.appex/IMDBIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		XcZrpV+yYPV5GdD1WbjTqZWYXvI=
+		</data>
 		<key>PlugIns/IMDBSearch.appex/IMDBSearch</key>
 		<data>
-		c+aHTJUEK1PL1WUZq8B+IE5eJK4=
+		EhRPnMXHxR1yajuDnbpjTgRjtj8=
 		</data>
 		<key>PlugIns/IMDBSearch.appex/Info.plist</key>
 		<data>
-		kIqLNFTiJ/uJnsfHn175nZ/6MHA=
+		dYsvLkgoQBGik2IbDvPwaK0hJV4=
 		</data>
 		<key>PlugIns/IMDBSearch.appex/_CodeSignature/CodeResources</key>
 		<data>
-		Y3cCmPcXZJdiUMg/531rEbe+pdk=
+		NZFd6r3u/ghMX5R/PbKXItEYqqc=
 		</data>
 		<key>PlugIns/IMDBSearch.appex/embedded.mobileprovision</key>
 		<data>
 		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		</data>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PhK+kLhQk5Xn7qdmUWfEDLsEGMo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zl2n70qBAjuxqmoRK3i7Qc44UkQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Info.plist</key>
+		<data>
+		QgUchRwiwLTz+Oe8BnYvT0KTDuc=
+		</data>
+		<key>PlugIns/flickrSearch.appex/_CodeSignature/CodeResources</key>
+		<data>
+		UbQtGY4VwF/Xz9dY/lvz3j8KsQI=
+		</data>
+		<key>PlugIns/flickrSearch.appex/embedded.mobileprovision</key>
+		<data>
+		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrIcon60x60@2x.png</key>
+		<data>
+		lBT9AhL4hRfTHXMEWFoLq81uYXw=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrIcon60x60@3x.png</key>
+		<data>
+		3jNCRqRci8Q68F30CNXGEAYtuRQ=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrIcon76x76@2x~ipad.png</key>
+		<data>
+		IVO42ID9ZuCsSp9/EyMHloxkpUA=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrIcon76x76~ipad.png</key>
+		<data>
+		E5e0piSWGjl88RlkUsSejzJNluA=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		a4A7widrBs9n9NjGgJjtcoYWpyA=
+		</data>
+		<key>PlugIns/flickrSearch.appex/flickrSearch</key>
+		<data>
+		3zWyIR7dpEhGcexJHgpokNkRaXQ=
+		</data>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nb8n2XE0km2hRT/AO3LaDHwCzRs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BCoJnYW6YEDdKnVN12LGx8V7+0g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Info.plist</key>
+		<data>
+		3e4Yqzj3ygPItHHUDfiHhvqA348=
+		</data>
+		<key>PlugIns/githubSearch.appex/_CodeSignature/CodeResources</key>
+		<data>
+		SeBZ+0xEhcGVtJBWtoxVFiI8prc=
+		</data>
+		<key>PlugIns/githubSearch.appex/embedded.mobileprovision</key>
+		<data>
+		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubIcon60x60@2x.png</key>
+		<data>
+		qdeqAuPh6OtYEXgyGStUAdXEemA=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubIcon60x60@3x.png</key>
+		<data>
+		ke3ocplIxq8rYaR4yjGydQMHJxA=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubIcon76x76@2x~ipad.png</key>
+		<data>
+		U6NbXXct3EJpwpTgujW5tZRc1Xg=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubIcon76x76~ipad.png</key>
+		<data>
+		586E6eRpTSFmfnT/JgfkjcZGW8M=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		o8+znhyr88Dh0QGY758wbFKCBWI=
+		</data>
+		<key>PlugIns/githubSearch.appex/githubSearch</key>
+		<data>
+		0yENRzT4w5/gZxh5ahC4K+M4z1U=
 		</data>
 		<key>PlugIns/imageSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -309,21 +479,25 @@
 		<data>
 		de9/rY5RW81GyMhJGH6ryhhmvF8=
 		</data>
+		<key>PlugIns/imageSearch.appex/ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		ha4YpbJ27ibLkAToZNtChi1bHQ8=
+		</data>
 		<key>PlugIns/imageSearch.appex/Info.plist</key>
 		<data>
-		hirRL24SlK0Sj0yM6T61CwHE5c4=
+		wjaQM/WeA8HXXpY1OaAUK0TmPNo=
 		</data>
 		<key>PlugIns/imageSearch.appex/_CodeSignature/CodeResources</key>
 		<data>
-		kZTV6XrhCvApSZItn370oiTOJ6U=
+		OeVQM4ZqCwIcP93gM9qnxaboGpo=
 		</data>
 		<key>PlugIns/imageSearch.appex/embedded.mobileprovision</key>
 		<data>
-		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		9Fn2Gb5TJ7S3N1aPlh7ROLlK76k=
 		</data>
 		<key>PlugIns/imageSearch.appex/imageSearch</key>
 		<data>
-		25fGZVOa4EgnIlra3ktO8eRKRNU=
+		rGLmnE74rbrBPFuv2q5UDnmu/Us=
 		</data>
 		<key>PlugIns/redditSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -354,11 +528,11 @@
 		</dict>
 		<key>PlugIns/redditSearch.appex/Info.plist</key>
 		<data>
-		44Z2nBN56S0yuJNf9kEzq1HHbCQ=
+		u8XhqbIHMLlL63cNaC8F6o2lBiA=
 		</data>
 		<key>PlugIns/redditSearch.appex/_CodeSignature/CodeResources</key>
 		<data>
-		NWYyMouYxD0VYZuom2oFxu8Qhw8=
+		mHAWIMiI7INriWzQZv7gjwziG5g=
 		</data>
 		<key>PlugIns/redditSearch.appex/embedded.mobileprovision</key>
 		<data>
@@ -380,9 +554,13 @@
 		<data>
 		F+Pqc+asPHNVE7YjUFLNU5gTCWk=
 		</data>
+		<key>PlugIns/redditSearch.appex/redditIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		xLRyHUgkgDV5lSx6/ljFH4EvmSc=
+		</data>
 		<key>PlugIns/redditSearch.appex/redditSearch</key>
 		<data>
-		fKisrQppjXog+hz7MRHF7cyCtw0=
+		/os6MvcmQrS0r3vmqzM3dzXkilg=
 		</data>
 		<key>PlugIns/selectsearchextension.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -397,7 +575,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr8sdDfkXNHI1gIv7v9dLAGChIE=
+			i1YihAmB4YFTrLnKaP4FA8sX+4k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -406,18 +584,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58ccHCfMg7mC8RggdyB4IYZ3DwU=
+			ICDfmbXFOJqO4SyKdtGIKa5m72I=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>PlugIns/selectsearchextension.appex/Info.plist</key>
 		<data>
-		rTzwtxQ0+hUjj/FPRb6BHvHroL4=
+		UikxmHB9blHyzO4ngEFg8+Ogyj8=
 		</data>
 		<key>PlugIns/selectsearchextension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		iUZiwqjZbVehhnS9CgRFrvDgqJ0=
+		tmNqTf/UcPiUhuW5baBJ8wzT5rU=
 		</data>
 		<key>PlugIns/selectsearchextension.appex/appExtension60x60@2x.png</key>
 		<data>
@@ -435,13 +613,80 @@
 		<data>
 		zj3nZ2Ci1uxSOzZD/B9ytwG3JIM=
 		</data>
+		<key>PlugIns/selectsearchextension.appex/appExtension83.5x83.5@2x~ipad.png</key>
+		<data>
+		vtaRcMsyAxz6b3T+0NKfTEpPb28=
+		</data>
 		<key>PlugIns/selectsearchextension.appex/embedded.mobileprovision</key>
 		<data>
-		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		u44bwkYsCs2ciTPOIP9bbj4Le1c=
 		</data>
 		<key>PlugIns/selectsearchextension.appex/selectsearchextension</key>
 		<data>
-		79vaCHcgS6mxLj4XTV6mp5A4p/Y=
+		KIX4GNNZaVk6nuMqDWtyzaPH9WI=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e6O3BMt32IvxS7eF7fNSMygqhTY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A+ba/bb/Gjgd0/WEo/r13EXK1Rs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Info.plist</key>
+		<data>
+		C+PaKEvubbsDCNMmn673/PpOIvI=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/_CodeSignature/CodeResources</key>
+		<data>
+		ePol+fTbieXDAJ8m4vyfKSzp6vY=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/embedded.mobileprovision</key>
+		<data>
+		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackOverflowSearch</key>
+		<data>
+		D66L8L4sf+U52/pR8pPyoLi9Zuk=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon60x60@2x.png</key>
+		<data>
+		UKpk8VzPBQQcyzV+n31p/L4b+lc=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon60x60@3x.png</key>
+		<data>
+		ibEQZQzJ65duzTyo7NnkvO/iYek=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon76x76@2x~ipad.png</key>
+		<data>
+		khkx/oRZVq4DzC5Jn7MLCFmzGMo=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon76x76~ipad.png</key>
+		<data>
+		Gwewr4c37LQ6NubxmOjjhpIMf/A=
+		</data>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		dWCLFL855+W7IKQm306WBDF2VZY=
 		</data>
 		<key>PlugIns/twitterSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -472,11 +717,11 @@
 		</dict>
 		<key>PlugIns/twitterSearch.appex/Info.plist</key>
 		<data>
-		LfWwzYbPvIsf5NemyYywYKTRJ6w=
+		41RwClG9Zosc3H5U3NbnSHlDmjc=
 		</data>
 		<key>PlugIns/twitterSearch.appex/_CodeSignature/CodeResources</key>
 		<data>
-		ySzr7iLcUEmbkDCb9nxRNVGYfbs=
+		81L0/n7eAKEOwIl0w5s7uvfM3Ug=
 		</data>
 		<key>PlugIns/twitterSearch.appex/embedded.mobileprovision</key>
 		<data>
@@ -498,9 +743,25 @@
 		<data>
 		C3Hbj06kzZlrtToOepp8zUyYeL4=
 		</data>
+		<key>PlugIns/twitterSearch.appex/twitterIcon83.5x83.5@2x~ipad.png</key>
+		<data>
+		O8hcIvQeyGe7BRooH2nB02eAfvc=
+		</data>
 		<key>PlugIns/twitterSearch.appex/twitterSearch</key>
 		<data>
-		C4HJ+liwN89EvYeofmqoFWKV4sc=
+		zbCDGirluqyldpP1VMPeax0sUBA=
+		</data>
+		<key>YahooLogo_30.png</key>
+		<data>
+		6uclNMb2LjlyTk68a0JtX+nJutI=
+		</data>
+		<key>YahooLogo_30@2x.png</key>
+		<data>
+		sjcy5d+nucUxMngEUlBGJZTXXco=
+		</data>
+		<key>YahooLogo_30@3x.png</key>
+		<data>
+		4VtHBuDIOjw2Sqf1L+s5OWduOxs=
 		</data>
 		<key>dropSearchIcon_200.png</key>
 		<data>
@@ -516,7 +777,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+		aovDvifIoDjIbRT0A4CHDWzKVRs=
 		</data>
 		<key>libswiftRemoteMirror.dylib</key>
 		<data>
@@ -760,11 +1021,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3eBRFPU05O2VQaxvH1WPMNSKA7k=
+			MLunphQDRI2GnAdLj50jbxmD5PQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			3YGylS4WaTZP7vR7bHCtrcAHtFNWW3HkP3HN3vjpsm8=
+			hRg5nFR67EECO+aiSXYnYQf9GDNw/ECkAqWz2qlU63E=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -782,11 +1043,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MQMIS8QX8lXHdGT7ZSUmkmYUOfo=
+			nqKG3vdGcEsL+7vIMVFCJeKBwN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			qMh9W0V/TUCBK0dIJJAhYgYDNKbFEx++QZOUBkLjNX4=
+			Xsij6aH/rvTQRt6/me34QwRa5OqG5C29jSKX8ADOwFo=
+			</data>
+		</dict>
+		<key>BingLogo_30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BrnXJ8RB94ayN67aMeiDzagoCSw=
+			</data>
+			<key>hash2</key>
+			<data>
+			sAXfG3fv++2WwY5xWRwBtcLa5HevzkD2/oaZUqWEgfQ=
+			</data>
+		</dict>
+		<key>BingLogo_30@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v/Vb7aVVgbeFLoi6Two+xC0P/6s=
+			</data>
+			<key>hash2</key>
+			<data>
+			bdMB0/UCScK9O8tzQplg0Wb4ktarHK2P5uB2qiHMSxA=
+			</data>
+		</dict>
+		<key>BingLogo_30@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mOQZIuAU6GXmOMyn/YRqKn53LD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			nXmVjoPIjg4ZWOV1Urj0Jiwmp+u/oGbaQIUjjiXxy58=
+			</data>
+		</dict>
+		<key>DuckDuckGoLogo_30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ptMwdmerApEDvM5JYB+7BBd4JuE=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZjBntkmeL1h2u/WvTsbHEhIOx6nKKbuVeOQm4MV0X1I=
+			</data>
+		</dict>
+		<key>DuckDuckGoLogo_30@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Djp4yGcwsFS6rWt/3EChi7ROtlQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			/bGWRoOSkEClO/meVaZVnv//kKByKUvuoVsgBfR6Uyc=
+			</data>
+		</dict>
+		<key>DuckDuckGoLogo_30@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GG1lVtwk6jEw6HbamodjS1VMNRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3yB+/Aq0y7ttVGZrl7EM1R+9hF3oho8su7tcSSfDOFU=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -899,6 +1226,39 @@
 			OkhKo0bK+bVMw4UDGY7bJ/M0M8p+AMaYscbYrSGWNGQ=
 			</data>
 		</dict>
+		<key>GoogleLogo_30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xD1O1OLztaMGHrd3Dgho1bshSAg=
+			</data>
+			<key>hash2</key>
+			<data>
+			0fxMDrdzzY6H63dr1mSnXJplXc1gg5vdnHvpxrxOCks=
+			</data>
+		</dict>
+		<key>GoogleLogo_30@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VAZltlyLEYhQsW4rjwUmTxZsGuA=
+			</data>
+			<key>hash2</key>
+			<data>
+			a7nOErX4SCM23AxX3Wbj9dDr7HpE8yAlNmDf9iIUrfA=
+			</data>
+		</dict>
+		<key>GoogleLogo_30@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PYAyhjBWZ6WICtDGbAwCDAC9Zgc=
+			</data>
+			<key>hash2</key>
+			<data>
+			04G7rMExpQB3HoAG7IFS01vp+fqb/fupxtXwQSfjP08=
+			</data>
+		</dict>
 		<key>PlugIns/BBCSearch.appex/BBCIcon60x60@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -943,15 +1303,26 @@
 			DQEmI/O36SlPvARTVBDX/58sfRGuX5An2QVb3MWsnrQ=
 			</data>
 		</dict>
+		<key>PlugIns/BBCSearch.appex/BBCIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vkcXaiwKnvvAt59yRPHcbZ7S3lM=
+			</data>
+			<key>hash2</key>
+			<data>
+			arALgKS0F5eO/ib5fK2NbKFptEpaDo5IvT4l2LFGEZw=
+			</data>
+		</dict>
 		<key>PlugIns/BBCSearch.appex/BBCSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GAcRpuu/QzaEUixPvHBEFYKJlxg=
+			ljTMPVzKvgZTXbcO8wseDHAz3u0=
 			</data>
 			<key>hash2</key>
 			<data>
-			9uqMF6fNJwdIRf+tKKSiK60NiECjixMp3g43ZqjF5X4=
+			BB9IIIRYZDXSRrEmiKhq6YICG+Mqal+ovBUIKYCjcK4=
 			</data>
 		</dict>
 		<key>PlugIns/BBCSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
@@ -997,22 +1368,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ef8FqUGzzZg3R0x7NSIrmNTI2tA=
+			AoAFbzYI5xlkmof+U58ylW8stZc=
 			</data>
 			<key>hash2</key>
 			<data>
-			hX92r2I2lJCR+f3DcngwAMDpjzRoWF89O9zEtwc1VYI=
+			e/HMbZoCPWRrNCjAipDd/6PqS7DweuYJiDli399APus=
 			</data>
 		</dict>
 		<key>PlugIns/BBCSearch.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O0+rxhztbZ8nme2B3kudykYHQRY=
+			SZ8G5rCzolpOL18OO1prstYTLDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Iuz7H+TcOrarqBYBKh4TtaGZ1xgRhtXGTHdMEyACXl0=
+			4aVYYhtVmATSgWk6C3p1UcBwPi8ruO88fe/gqn7KMYk=
 			</data>
 		</dict>
 		<key>PlugIns/BBCSearch.appex/embedded.mobileprovision</key>
@@ -1109,37 +1480,48 @@
 			cuXQhFKycWFWMLPDuWQSFS7YcWaCXBfR231U0SbJ2mE=
 			</data>
 		</dict>
+		<key>PlugIns/IMDBSearch.appex/IMDBIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XcZrpV+yYPV5GdD1WbjTqZWYXvI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BRagZrCQ0iV+EkQzCLGVGvftykTdSRMjAZq5l2LcVMY=
+			</data>
+		</dict>
 		<key>PlugIns/IMDBSearch.appex/IMDBSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c+aHTJUEK1PL1WUZq8B+IE5eJK4=
+			EhRPnMXHxR1yajuDnbpjTgRjtj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGJSPZsVoG/HJMNUnP+P6kU9B29cKsGG7BS3LKt9ap8=
+			BR8PAd1vTskgSWrafFGmsQGgIaqpUEK+kzeL7KF+Yuo=
 			</data>
 		</dict>
 		<key>PlugIns/IMDBSearch.appex/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kIqLNFTiJ/uJnsfHn175nZ/6MHA=
+			dYsvLkgoQBGik2IbDvPwaK0hJV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			oZsIz3Yiyzuf82oVXLHDut1KdBVav32cx1Yts3E28Jo=
+			5DT8YHYAjn2ykc2YwV3jXEyKR3iUEO99h42ZeVuMfu8=
 			</data>
 		</dict>
 		<key>PlugIns/IMDBSearch.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y3cCmPcXZJdiUMg/531rEbe+pdk=
+			NZFd6r3u/ghMX5R/PbKXItEYqqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jThekOO1zpEQCAlXIEyCjKhoKIClGAtpFocHie+bieE=
+			0ZjioksiasM5twdkBAfywXQF22BeE/Z23lhGDe2DhjI=
 			</data>
 		</dict>
 		<key>PlugIns/IMDBSearch.appex/embedded.mobileprovision</key>
@@ -1151,6 +1533,282 @@
 			<key>hash2</key>
 			<data>
 			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Zkoj+a7Nv+GT39rrbg05J2Y7OQHhbaZkFLZo44H0so=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PhK+kLhQk5Xn7qdmUWfEDLsEGMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			+z018A5Qq/W2dvmbeI77HwkYzkG17g3LtgSwkbJNvsY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zl2n70qBAjuxqmoRK3i7Qc44UkQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XTM+3NrqoBpVJPzND0eebRy6QjpA5MN2YBz2ly+f7xA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QgUchRwiwLTz+Oe8BnYvT0KTDuc=
+			</data>
+			<key>hash2</key>
+			<data>
+			8apQsF93njplH/cVjwKGl160aq4FJb8XFI1sTSR9cuA=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UbQtGY4VwF/Xz9dY/lvz3j8KsQI=
+			</data>
+			<key>hash2</key>
+			<data>
+			2bj2tRSTafSTHXkvMv4SHrA1E/1eZlG98ceY3tmDxKY=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lBT9AhL4hRfTHXMEWFoLq81uYXw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qUHi96G2i7TQHQin2uTa0ogQC8+5gBKBpP/Y5cv8ibo=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3jNCRqRci8Q68F30CNXGEAYtuRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			6adQFyqXa445c7ktzUr6X3YQZ9FRFlLAt52IUpURazQ=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IVO42ID9ZuCsSp9/EyMHloxkpUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			zsJz1wEorI4XTy91yvP6fFZNCnPUlw+7RIbmeiG9oLg=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrIcon76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E5e0piSWGjl88RlkUsSejzJNluA=
+			</data>
+			<key>hash2</key>
+			<data>
+			MAr0XStrD84ztyf78zhsqxLmNrOWVcPR0jUk79fHXPo=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a4A7widrBs9n9NjGgJjtcoYWpyA=
+			</data>
+			<key>hash2</key>
+			<data>
+			0Urt3LM7ZX5tNDcCR7mZHevOOrwcpcKRVO8FJ/Ymllo=
+			</data>
+		</dict>
+		<key>PlugIns/flickrSearch.appex/flickrSearch</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3zWyIR7dpEhGcexJHgpokNkRaXQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			AYegm1IAPwSWbtTbxJIFfyETJ7AN2IWSE2Pig5Lwt1A=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Zkoj+a7Nv+GT39rrbg05J2Y7OQHhbaZkFLZo44H0so=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nb8n2XE0km2hRT/AO3LaDHwCzRs=
+			</data>
+			<key>hash2</key>
+			<data>
+			wWItmo9b9t8FQn1sa4IhuIDYmHNolFS9+Dj55zbDFyc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BCoJnYW6YEDdKnVN12LGx8V7+0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			tOHfCkfCaDGR7G1/o6UWZdfn7CF66z2YvVpR8GCOcn8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/githubSearch.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3e4Yqzj3ygPItHHUDfiHhvqA348=
+			</data>
+			<key>hash2</key>
+			<data>
+			TnSf+AASuSPS36cer2iD/TM1yzv0h+bMpLvHWfoQuhQ=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SeBZ+0xEhcGVtJBWtoxVFiI8prc=
+			</data>
+			<key>hash2</key>
+			<data>
+			NMFp6dpT3eA76+C+eW92Tv8h2KjkwKbaqYYxncOWJU0=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qdeqAuPh6OtYEXgyGStUAdXEemA=
+			</data>
+			<key>hash2</key>
+			<data>
+			+ld2GUWyurTK4ooO9NJ+Q2EUmyb0E3skBFQm/h6uywE=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ke3ocplIxq8rYaR4yjGydQMHJxA=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Vq7m+IfIBdVNGujg0icR9bnf9ZxmFnSgWpp1iLch7s=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U6NbXXct3EJpwpTgujW5tZRc1Xg=
+			</data>
+			<key>hash2</key>
+			<data>
+			/lNb9OOZHPsFq7RCprckBMOm4ie1/A0kHygA4T5wX4w=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubIcon76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			586E6eRpTSFmfnT/JgfkjcZGW8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			xdvjN7PBzlRQOz7ZPkdzv+6kynWw5kHzuDhHNhjNBqs=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o8+znhyr88Dh0QGY758wbFKCBWI=
+			</data>
+			<key>hash2</key>
+			<data>
+			6z6iGpJDIA3pKxbjL3pBE3sofPGqGI695yC4pbzbr7k=
+			</data>
+		</dict>
+		<key>PlugIns/githubSearch.appex/githubSearch</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0yENRzT4w5/gZxh5ahC4K+M4z1U=
+			</data>
+			<key>hash2</key>
+			<data>
+			Skoe0fTyWvLopXnMkgbBuLMKmHaMcM19Y33tOwQsJNQ=
 			</data>
 		</dict>
 		<key>PlugIns/imageSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
@@ -1236,48 +1894,59 @@
 			ZrB5MU5eFROGOnW5zfMyqE81RVnuPHlaKdmtgpd2nr8=
 			</data>
 		</dict>
+		<key>PlugIns/imageSearch.appex/ImageSearchExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ha4YpbJ27ibLkAToZNtChi1bHQ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			CL/T0HB2ykETp3te0sr0geI9rSw8AM0wbsCZBGHh0u0=
+			</data>
+		</dict>
 		<key>PlugIns/imageSearch.appex/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hirRL24SlK0Sj0yM6T61CwHE5c4=
+			wjaQM/WeA8HXXpY1OaAUK0TmPNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q2gJODEhPmQwcEaCFfIAxaeDgooKy/bHuVj9erOtohA=
+			jU2hO+xbkQOhGTlxvx07F1W9FcU0d0HbiEji64RIsco=
 			</data>
 		</dict>
 		<key>PlugIns/imageSearch.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kZTV6XrhCvApSZItn370oiTOJ6U=
+			OeVQM4ZqCwIcP93gM9qnxaboGpo=
 			</data>
 			<key>hash2</key>
 			<data>
-			kDl27n1rmCWWFCTLfHZHsI9HFxGUes0tVzZgNWdo/uY=
+			+utmBdG1OEiT9GqymuCwHVwFIEhNJg0iEJhyudzH93M=
 			</data>
 		</dict>
 		<key>PlugIns/imageSearch.appex/embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			9Fn2Gb5TJ7S3N1aPlh7ROLlK76k=
 			</data>
 			<key>hash2</key>
 			<data>
-			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			xg6os6sobbR86VMmMBqs5kdhw/gjO7Fc2YhjWnTLlNw=
 			</data>
 		</dict>
 		<key>PlugIns/imageSearch.appex/imageSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			25fGZVOa4EgnIlra3ktO8eRKRNU=
+			rGLmnE74rbrBPFuv2q5UDnmu/Us=
 			</data>
 			<key>hash2</key>
 			<data>
-			OPcZRP8rxKiTsXvWVD/j9wlYXAzhxIaEct2pfhJAsgg=
+			+piutSaxTK9f4XcJOCGSYFWNF8ygJxzpjXyzcyCqWss=
 			</data>
 		</dict>
 		<key>PlugIns/redditSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
@@ -1323,22 +1992,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			44Z2nBN56S0yuJNf9kEzq1HHbCQ=
+			u8XhqbIHMLlL63cNaC8F6o2lBiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			RXCGNptP1oLAUH8Q+2hOciyhEZI470MDAWcJV0IvJiI=
+			qbq+ZirRoGVYrF4D/qvHUKYsVGLhXNdKXXDKj+TYYh8=
 			</data>
 		</dict>
 		<key>PlugIns/redditSearch.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NWYyMouYxD0VYZuom2oFxu8Qhw8=
+			mHAWIMiI7INriWzQZv7gjwziG5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			NvCyaoZ7ovq+LwG69TCZ2rfNVHd9NX0vhQBC7+x3fG4=
+			8I17zdmPAhDZxX+HvzfAZXfho/Z/+5HDGg0q7WxsHw0=
 			</data>
 		</dict>
 		<key>PlugIns/redditSearch.appex/embedded.mobileprovision</key>
@@ -1396,15 +2065,26 @@
 			Tia8maZOGwwYXR114Emucq4GUCSkwD+f5aMsmmy3yB0=
 			</data>
 		</dict>
+		<key>PlugIns/redditSearch.appex/redditIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xLRyHUgkgDV5lSx6/ljFH4EvmSc=
+			</data>
+			<key>hash2</key>
+			<data>
+			BjUXU8WEmSPfVhTpCUUcVamGC65/adfY6j6eZopWN+k=
+			</data>
+		</dict>
 		<key>PlugIns/redditSearch.appex/redditSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fKisrQppjXog+hz7MRHF7cyCtw0=
+			/os6MvcmQrS0r3vmqzM3dzXkilg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PBhh9c/y3L1MY8RzHR7XlDNPWS+Geyk0UEbDUnrWJYw=
+			6HN6i/56zS2VBSWi01CQdqPonNdmHohPw7P3jhrDrkk=
 			</data>
 		</dict>
 		<key>PlugIns/selectsearchextension.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
@@ -1424,11 +2104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pr8sdDfkXNHI1gIv7v9dLAGChIE=
+			i1YihAmB4YFTrLnKaP4FA8sX+4k=
 			</data>
 			<key>hash2</key>
 			<data>
-			5VxCuQx4aOMASt9BEsVcFyPXf4GapQy0SeFIXub3r8U=
+			w5mKbZdA5qpVCZ/kadUWefDZabTYMMl49K0357U5Fos=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1437,11 +2117,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58ccHCfMg7mC8RggdyB4IYZ3DwU=
+			ICDfmbXFOJqO4SyKdtGIKa5m72I=
 			</data>
 			<key>hash2</key>
 			<data>
-			+MEbYL0D33TA7H9w0AX6oIY8VPNNQGsa9HchHUPfqJg=
+			+uEHctifkVuGEVKhuk7QwvTI2P47MXlxZMGDRjVIg/Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1450,22 +2130,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rTzwtxQ0+hUjj/FPRb6BHvHroL4=
+			UikxmHB9blHyzO4ngEFg8+Ogyj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			IHKNR3ybutZ/xHr6HK5zDVItGlD97GrM3xZ/GDGsDnE=
+			HlxhRB0GVhnV1V5J9P5RWoY712i3o2+p5cmwq8ESG7Y=
 			</data>
 		</dict>
 		<key>PlugIns/selectsearchextension.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iUZiwqjZbVehhnS9CgRFrvDgqJ0=
+			tmNqTf/UcPiUhuW5baBJ8wzT5rU=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Ew+HiKR72IhcIS8n8mLaD35t+kMUdRywP2WAgHErc4=
+			JlMuGiMYIfU+gJq/qgYhLAQWKOv3S9lk4xXZQG7dKYg=
 			</data>
 		</dict>
 		<key>PlugIns/selectsearchextension.appex/appExtension60x60@2x.png</key>
@@ -1512,7 +2192,101 @@
 			TPy4p0+O+xsttnu9ZJFGXEVqUXVwevxJXNS+G2q+NPQ=
 			</data>
 		</dict>
+		<key>PlugIns/selectsearchextension.appex/appExtension83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vtaRcMsyAxz6b3T+0NKfTEpPb28=
+			</data>
+			<key>hash2</key>
+			<data>
+			/QWyfd24gIcSwpCktr3eh92GXmrD/nUV75RKrxgXTys=
+			</data>
+		</dict>
 		<key>PlugIns/selectsearchextension.appex/embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u44bwkYsCs2ciTPOIP9bbj4Le1c=
+			</data>
+			<key>hash2</key>
+			<data>
+			eqK+afDrhSiADG08YU5uauONVPG+iLMYV8gKk0HvJEQ=
+			</data>
+		</dict>
+		<key>PlugIns/selectsearchextension.appex/selectsearchextension</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KIX4GNNZaVk6nuMqDWtyzaPH9WI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8SkBkUMKO76ayKHZcnTDokQiGFKc/6LLQB8z2pBqSz0=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LphSzypO58Ee41BVLe8F3DJZUps=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Zkoj+a7Nv+GT39rrbg05J2Y7OQHhbaZkFLZo44H0so=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e6O3BMt32IvxS7eF7fNSMygqhTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			hs082Bav93suxcSlypvauyRbbfaLgUOXjUMnJnPnN2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A+ba/bb/Gjgd0/WEo/r13EXK1Rs=
+			</data>
+			<key>hash2</key>
+			<data>
+			LcNmpvsSocYvxmu2cSmS4MemxdEHZoLvzFql52jCgC0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C+PaKEvubbsDCNMmn673/PpOIvI=
+			</data>
+			<key>hash2</key>
+			<data>
+			hi97McTIby3pqBfmbZ/z+Fn1G+yCrmj1BRTz6RytFa8=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ePol+fTbieXDAJ8m4vyfKSzp6vY=
+			</data>
+			<key>hash2</key>
+			<data>
+			6ufM3LR9TbuBJvoRnDao1rpbayhnCwOuOUI7udLf30E=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1523,15 +2297,70 @@
 			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
 			</data>
 		</dict>
-		<key>PlugIns/selectsearchextension.appex/selectsearchextension</key>
+		<key>PlugIns/stackOverflowSearch.appex/stackOverflowSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			79vaCHcgS6mxLj4XTV6mp5A4p/Y=
+			D66L8L4sf+U52/pR8pPyoLi9Zuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			s/Ac+INCeP9G3HzITh4S1/ZjTB/lElKwF/NUHFY98OY=
+			rSzpYU/I309rYD+iFspXB2/yw0sfDf9D+y4GSghq3sA=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UKpk8VzPBQQcyzV+n31p/L4b+lc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z7uhXfZOFgZeHBCkbc9Na6qDSOEktI+FaRl7phXDdGU=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ibEQZQzJ65duzTyo7NnkvO/iYek=
+			</data>
+			<key>hash2</key>
+			<data>
+			PVm19sJvnZ60rLBF6PjxSFCUKe6V6Pp7acGWO4E+MyE=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			khkx/oRZVq4DzC5Jn7MLCFmzGMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			bD6n2YOuA9KO0g0mmkER9qLmzahYwsN1auzIN85MCGI=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gwewr4c37LQ6NubxmOjjhpIMf/A=
+			</data>
+			<key>hash2</key>
+			<data>
+			GbM86o1o/z1dYDiKC04Ml1nFxi8z7Qzs1mmYILHfSnM=
+			</data>
+		</dict>
+		<key>PlugIns/stackOverflowSearch.appex/stackoverflowIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dWCLFL855+W7IKQm306WBDF2VZY=
+			</data>
+			<key>hash2</key>
+			<data>
+			qfjl58cLCm+llhU8iIAQno2m4YKcnQEhYUt4NtWKJnY=
 			</data>
 		</dict>
 		<key>PlugIns/twitterSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
@@ -1577,22 +2406,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LfWwzYbPvIsf5NemyYywYKTRJ6w=
+			41RwClG9Zosc3H5U3NbnSHlDmjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mgRyExGKlRfc7EVp7LCZoeuigMqTHscz22bTqpgzx7g=
+			9QQ6LeGhIqCfeKQd5jjrri0w07/Ip24ybGf0smBltK8=
 			</data>
 		</dict>
 		<key>PlugIns/twitterSearch.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ySzr7iLcUEmbkDCb9nxRNVGYfbs=
+			81L0/n7eAKEOwIl0w5s7uvfM3Ug=
 			</data>
 			<key>hash2</key>
 			<data>
-			FgfJOIPNp1/YXKenacSy5WzTBvkTxT8pmZju874JdXI=
+			70M3H2GyzOCXI5fO0Gzd7cospraDJSq8cTn9k5D7FCQ=
 			</data>
 		</dict>
 		<key>PlugIns/twitterSearch.appex/embedded.mobileprovision</key>
@@ -1650,15 +2479,59 @@
 			Y2ooKFclB82QPqjzhwzkzV2XYN9PWoqYaTT0opMecFM=
 			</data>
 		</dict>
+		<key>PlugIns/twitterSearch.appex/twitterIcon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O8hcIvQeyGe7BRooH2nB02eAfvc=
+			</data>
+			<key>hash2</key>
+			<data>
+			DqDgzbn+PQ3fKtHlYGoeDpXyP47SM0WzQnYK3HwtCmg=
+			</data>
+		</dict>
 		<key>PlugIns/twitterSearch.appex/twitterSearch</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C4HJ+liwN89EvYeofmqoFWKV4sc=
+			zbCDGirluqyldpP1VMPeax0sUBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j2Lhg91pR2yUxZ/yopPsBnaZVb5oUjCVYxi1frF0ZrY=
+			dCG27ByVj/0tDeCM6tK42jlYVJAWHH/Iy1vKur/LP3Y=
+			</data>
+		</dict>
+		<key>YahooLogo_30.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6uclNMb2LjlyTk68a0JtX+nJutI=
+			</data>
+			<key>hash2</key>
+			<data>
+			FiBMrOZsgLe5PY9D7VusN+0ogkKwmIHJJMVDJIn6yMU=
+			</data>
+		</dict>
+		<key>YahooLogo_30@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sjcy5d+nucUxMngEUlBGJZTXXco=
+			</data>
+			<key>hash2</key>
+			<data>
+			OW233Jc6yxLK4tITYat+EmrbrGq/jd0FmSotmswGgsA=
+			</data>
+		</dict>
+		<key>YahooLogo_30@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4VtHBuDIOjw2Sqf1L+s5OWduOxs=
+			</data>
+			<key>hash2</key>
+			<data>
+			rrHg7KNuhiVPVE6yv60l0Ry+XVFhlePvjr9T98uqz3E=
 			</data>
 		</dict>
 		<key>dropSearchIcon_200.png</key>
@@ -1698,11 +2571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FA/ETvLlsp04Xr2WaTuV4qFHjzQ=
+			aovDvifIoDjIbRT0A4CHDWzKVRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/vh7Ml6I0FX38ntgx6rFI7Zs8g3q1MGoM1pkbf95p94=
+			cZtxi+EupPNPmsg11KzTheNxzPM8Wl4+BH/IQN9GY5E=
 			</data>
 		</dict>
 		<key>libswiftRemoteMirror.dylib</key>

@@ -6,11 +6,11 @@
 	<string>6XK8CTGKE3.com.danielpape.dropSearch.selectsearchextension</string>
 	<key>com.apple.developer.team-identifier</key>
 	<string>6XK8CTGKE3</string>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.danielpape.selectsearch</string>
+	</array>
 	<key>get-task-allow</key>
 	<true/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>6XK8CTGKE3.com.danielpape.dropSearch.selectsearchextension</string>
-	</array>
 </dict>
 </plist>

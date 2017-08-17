@@ -152,12 +152,19 @@ SWIFT_CLASS("_TtC12selectsearch11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIBarButtonItem;
+@class UIToolbar;
+@class NSUserDefaults;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC12selectsearch14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UIBarButtonItem * _Null_unspecified setSearchProviderButton;
+@property (nonatomic, weak) IBOutlet UIToolbar * _Null_unspecified toolbar;
+@property (nonatomic, readonly, strong) NSUserDefaults * _Nullable defaults;
 - (void)viewDidLoad;
+- (IBAction)tapSelectSearchProvider:(id _Nonnull)sender;
 - (void)didReceiveMemoryWarning;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
