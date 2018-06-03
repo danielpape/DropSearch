@@ -17,6 +17,8 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        preferredContentSize = CGSize(width: 540, height: 620)
+                
         let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
         let searchProvider = String(describing: defaults?.object(forKey: "searchProvider"))
         
@@ -59,10 +61,15 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                                 let svc = SFSafariViewController(url: URL(string:searchProviderString+self.convertedString!)!)
                                                 svc.delegate = self
                                                 svc.modalPresentationCapturesStatusBarAppearance = true
+                                                svc.preferredContentSize = super.view.bounds.size;
                                                 self.present(svc, animated: true, completion: nil)
                                                 }
+                                            
+                                            let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
+                                            defaults?.set("test", forKey: "testKey")
+                                            defaults?.synchronize()
                                         }
-            })    
+            })
         }
         
     }

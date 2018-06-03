@@ -16,7 +16,8 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        preferredContentSize = CGSize(width: 540, height: 620)
+
         let textItem = self.extensionContext!.inputItems[0]
             as! NSExtensionItem
         

@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var setSearchProviderButton: UIBarButtonItem!
     @IBOutlet weak var toolbar: UIToolbar!
     let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -28,6 +28,8 @@ class ViewController: UIViewController {
             self.setSearchProviderButton.image = #imageLiteral(resourceName: "DuckDuckGoLogo_30.png")
         }
         
+        print(defaults?.object(forKey: "testKey") ?? "testDefault")
+        defaults?.dictionary(forKey: "searchHistory")
     }
     
     @IBAction func tapSelectSearchProvider(_ sender: Any) {
@@ -73,8 +75,7 @@ class ViewController: UIViewController {
         alertController.addAction(cancelButton)
         
         alertController.popoverPresentationController?.sourceView = self.toolbar
-        alertController.popoverPresentationController?.permittedArrowDirections = UIPopoverArrowDirection.down
-        
+        alertController.popoverPresentationController?.permittedArrowDirections = UIPopoverArrowDirection.down        
         
         self.present(alertController, animated: true, completion: nil)
     }
