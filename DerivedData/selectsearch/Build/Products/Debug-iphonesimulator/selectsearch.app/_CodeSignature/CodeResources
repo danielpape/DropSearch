@@ -78,7 +78,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		iWrYgcr/2uEYcWlgfpPPJKnHLaA=
+		c1jlhi2FEsNcNjPpmHqgm8r/r/c=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -92,17 +92,33 @@
 		<data>
 		HAtfpFfigWQr6h7KOislFW1Byvc=
 		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/0O2-8F-BT0-view-QqX-4L-qhE.nib/objects-11.0+.nib</key>
 		<data>
-		Zp9iJjmkNGZmHdFzBnrcWW5cFFQ=
+		76eDJyyuEwix1Byn0npvuFfKfHE=
+		</data>
+		<key>Base.lproj/Main.storyboardc/0O2-8F-BT0-view-QqX-4L-qhE.nib/runtime.nib</key>
+		<data>
+		YZfrLJ5hTbQoFskPP8eT64w9pFk=
+		</data>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib</key>
+		<data>
+		sbvlylg/hf1lnHj2oRfeXx6flsM=
+		</data>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
+		<data>
+		r7UV471bBBM+ZDWzm2peGWithQQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		MDrKFvFWroTb0+KEbQShBcoBvo4=
+		nIjFZGfffzHxvW2psVlvFZp1PvE=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
+		<key>Base.lproj/Main.storyboardc/UITabBarController-Ja3-gX-vyN.nib/objects-11.0+.nib</key>
 		<data>
-		sYDmqSU7aCUFY7JnNvWuOmxYesk=
+		dqFT+HqRl3c5PHOReDL7uIRYq2Y=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UITabBarController-Ja3-gX-vyN.nib/runtime.nib</key>
+		<data>
+		qTzMmtffTo08cKKbwXTETRCVgtk=
 		</data>
 		<key>BingLogo_30.png</key>
 		<data>
@@ -623,7 +639,7 @@
 		</data>
 		<key>PlugIns/selectsearchextension.appex/selectsearchextension</key>
 		<data>
-		pivzUmAM/QgnnL3taZhqf+dhAk0=
+		Qn5I0ZKN1UnZwl0Kb5sTdgga+CA=
 		</data>
 		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>
 		<dict>
@@ -976,11 +992,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iWrYgcr/2uEYcWlgfpPPJKnHLaA=
+			c1jlhi2FEsNcNjPpmHqgm8r/r/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			M6l9vleB0IjYOHFa6+H0KnYXmxC5T1oTT2Qri5cpni8=
+			xoPd2ZXBu+gGViow2hN/vBhhCuDG+8IJUOYWFZy0mnc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -1016,37 +1032,81 @@
 			wjgWiLiTxen4JIle04LvUhtqL5fQyoZUzlgxUkjAJBU=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/0O2-8F-BT0-view-QqX-4L-qhE.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zp9iJjmkNGZmHdFzBnrcWW5cFFQ=
+			76eDJyyuEwix1Byn0npvuFfKfHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2UKkwPbVmXDLKp1RyE4qhbAx2LIXTJ+GG6Qy8I5X6nM=
+			BLVi4DwiIeypTH2pXYaByKv4Udhdli/o1KmpINR5aFY=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/0O2-8F-BT0-view-QqX-4L-qhE.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YZfrLJ5hTbQoFskPP8eT64w9pFk=
+			</data>
+			<key>hash2</key>
+			<data>
+			pfTXNvWeenStJYC5YoTSHng9fWuloNRCZcYxtslh9fg=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sbvlylg/hf1lnHj2oRfeXx6flsM=
+			</data>
+			<key>hash2</key>
+			<data>
+			h9cSziBMTs5D9c5kxtwNlhymq/pDmUhmSsiG77wdGvg=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r7UV471bBBM+ZDWzm2peGWithQQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3xCXE4b+cpTZDvjumXrRib0hJ6ggdP0spKgWA+j8Tuo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MDrKFvFWroTb0+KEbQShBcoBvo4=
+			nIjFZGfffzHxvW2psVlvFZp1PvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
+			lH9m9zpKwdpokjyPLyZKrii3LugQ9eOH25Wcj2sKiWE=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
+		<key>Base.lproj/Main.storyboardc/UITabBarController-Ja3-gX-vyN.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sYDmqSU7aCUFY7JnNvWuOmxYesk=
+			dqFT+HqRl3c5PHOReDL7uIRYq2Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			goXml5KXjGewoNsciMorcDA9bgMn8s7+OaptVcD9750=
+			If9qfZ0BF8airx9WF/kvNi0Doq/DqIKKj/J+kpOwhak=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UITabBarController-Ja3-gX-vyN.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qTzMmtffTo08cKKbwXTETRCVgtk=
+			</data>
+			<key>hash2</key>
+			<data>
+			0PfR1AVl67TvpdPkVRGhHLnPTboWrasWPWk9nESDRWo=
 			</data>
 		</dict>
 		<key>BingLogo_30.png</key>
@@ -2206,11 +2266,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pivzUmAM/QgnnL3taZhqf+dhAk0=
+			Qn5I0ZKN1UnZwl0Kb5sTdgga+CA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JATOmqc0kv51jS3g+vXBl32u58dDcAnIIIa2Pufjylc=
+			A+lY1epqBXs/WnkIt4407rnYMVY9qC5cpVwWGLAc3cI=
 			</data>
 		</dict>
 		<key>PlugIns/stackOverflowSearch.appex/Base.lproj/MainInterface.storyboardc/Info.plist</key>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Ja3-gX-vyN">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--How to-->
+        <!--Welcome-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController title="How to" id="BYZ-38-t0r" customClass="ViewController" customModule="selectsearch" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Welcome" id="BYZ-38-t0r" customClass="ViewController" customModule="selectsearch" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -23,7 +23,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z20-cp-7R5">
-                                <rect key="frame" x="35" y="307" width="300" height="74"/>
+                                <rect key="frame" x="35" y="327" width="300" height="74"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="300" id="sRj-53-svx"/>
                                     <constraint firstAttribute="height" constant="74" id="wSX-zT-v7h"/>
@@ -34,7 +34,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Here's how to enable DropSearch" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YjI-hw-EOz">
-                                <rect key="frame" x="37.5" y="278" width="300" height="21"/>
+                                <rect key="frame" x="37.5" y="298" width="300" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="300" id="WUW-aq-YzZ"/>
                                     <constraint firstAttribute="height" constant="21" id="zJW-ys-kcn"/>
@@ -44,7 +44,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nearly done!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NjY-Ut-gxq">
-                                <rect key="frame" x="67" y="212" width="241" height="37"/>
+                                <rect key="frame" x="67" y="232" width="241" height="37"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="37" id="Wr7-ki-0fJ"/>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="37" id="lmM-hJ-nae"/>
@@ -54,7 +54,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DropSearchSymbols.png" translatesAutoresizingMaskIntoConstraints="NO" id="X1o-gg-mqT">
-                                <rect key="frame" x="37" y="40" width="300" height="153"/>
+                                <rect key="frame" x="37" y="60" width="300" height="153"/>
                             </imageView>
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" barStyle="black" translatesAutoresizingMaskIntoConstraints="NO" id="YOn-75-eCy">
                                 <rect key="frame" x="0.0" y="623" width="375" height="44"/>
@@ -74,13 +74,13 @@
                                 </items>
                             </toolbar>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to search" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dOq-NX-BsT">
-                                <rect key="frame" x="37.5" y="407" width="300" height="24"/>
+                                <rect key="frame" x="37.5" y="427" width="300" height="24"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="To use DropSearch make sure it's enabled and then select any text, then tap share, then tap DropSearch." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JRr-CE-s9m">
-                                <rect key="frame" x="37.5" y="436" width="300" height="89"/>
+                                <rect key="frame" x="37.5" y="456" width="300" height="69"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="300" id="Wi8-Tj-aG4"/>
                                 </constraints>
@@ -115,6 +115,7 @@
                             <constraint firstItem="NjY-Ut-gxq" firstAttribute="centerX" secondItem="YjI-hw-EOz" secondAttribute="centerX" id="y7B-s9-r7Z"/>
                         </constraints>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Welcome" id="TH7-dh-rd3"/>
                     <nil key="simulatedStatusBarMetrics"/>
                     <nil key="simulatedTopBarMetrics"/>
                     <nil key="simulatedBottomBarMetrics"/>
@@ -125,7 +126,65 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="749.60000000000002" y="-83.208395802098963"/>
+            <point key="canvasLocation" x="1761" y="-460"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="vXY-hO-Svd">
+            <objects>
+                <tabBarController id="Ja3-gX-vyN" sceneMemberID="viewController">
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="c2r-gc-58O">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="2rg-UO-gUl"/>
+                        <segue destination="0O2-8F-BT0" kind="relationship" relationship="viewControllers" id="eV2-SB-z2P"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="sJw-vH-2e8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="807" y="-107"/>
+        </scene>
+        <!--History-->
+        <scene sceneID="5qR-JB-Tmb">
+            <objects>
+                <tableViewController title="History" id="0O2-8F-BT0" customClass="HistoryTableViewController" customModule="selectsearch" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="QqX-4L-qhE">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="cell" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" textLabel="7Xt-Hm-nbs" style="IBUITableViewCellStyleDefault" id="WZ1-Cb-rWD">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="WZ1-Cb-rWD" id="sQD-Y5-hBZ">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7Xt-Hm-nbs">
+                                            <rect key="frame" x="16" y="0.0" width="343" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="0O2-8F-BT0" id="JiC-K4-MXV"/>
+                            <outlet property="delegate" destination="0O2-8F-BT0" id="oJl-Gf-hPd"/>
+                        </connections>
+                    </tableView>
+                    <tabBarItem key="tabBarItem" title="History" id="jFB-aR-l2H"/>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Crr-Og-yo2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1761" y="226"/>
         </scene>
     </scenes>
     <resources>
