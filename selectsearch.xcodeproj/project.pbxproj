@@ -492,11 +492,11 @@
 				3717CE961F40EEAF00082E0C /* Images */,
 				3747A5FB1F1A4F2B00F42287 /* AppDelegate.swift */,
 				3747A5FD1F1A4F2B00F42287 /* ViewController.swift */,
+				3739BAED20C4862900510B18 /* HistoryTableViewController.swift */,
 				3747A5FF1F1A4F2B00F42287 /* Main.storyboard */,
 				3747A6021F1A4F2B00F42287 /* Assets.xcassets */,
 				3747A6041F1A4F2B00F42287 /* LaunchScreen.storyboard */,
 				3747A6071F1A4F2B00F42287 /* Info.plist */,
-				3739BAED20C4862900510B18 /* HistoryTableViewController.swift */,
 			);
 			path = selectsearch;
 			sourceTree = "<group>";

@@ -13,6 +13,8 @@ import SafariServices
 class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
 
     var convertedString: String?
+    var plainTextString: String?
+    let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -39,7 +41,7 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
     
         let textItem = self.extensionContext!.inputItems[0]
             as! NSExtensionItem
-    
+        
         let textItemProvider = textItem.attachments![0]
             as! NSItemProvider
         
@@ -52,6 +54,8 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                         
                                         self.convertedString = result as? String
                                         
+                                        self.plainTextString = self.convertedString
+                                        
                                         if self.convertedString != nil {
                                             self.convertedString = self.convertedString!.addingPercentEncoding( withAllowedCharacters: .urlQueryAllowed)
                                             
@@ -63,15 +67,22 @@ class ActionViewController: UIViewController, SFSafariViewControllerDelegate {
                                                 svc.modalPresentationCapturesStatusBarAppearance = true
                                                 svc.preferredContentSize = super.view.bounds.size;
                                                 self.present(svc, animated: true, completion: nil)
+                                                
+                                                var searchHistoryArray = defaults?.array(forKey: "searchHistory")
+                                                
+                                                if (searchHistoryArray == nil){
+                                                    searchHistoryArray = ["Go search for something!"]
                                                 }
-                                            
-                                            let defaults = UserDefaults(suiteName: "group.com.danielpape.selectsearch")
-                                            defaults?.set("test", forKey: "testKey")
-                                            defaults?.synchronize()
+                                                
+                                                searchHistoryArray?.append(self.plainTextString ?? "test3")
+                                                defaults?.set(searchHistoryArray, forKey: "searchHistory")
+                                                defaults?.synchronize()
+                                                print(defaults?.array(forKey: "searchHistory"))
+                                                print("test")
+                                                }
                                         }
             })
         }
-        
     }
     
     func safariViewControllerDidFinish(_ controller: SFSafariViewController)
